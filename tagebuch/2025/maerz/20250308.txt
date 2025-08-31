@@ -1,0 +1,64 @@
+Sat Mar  8 01:47:18 CET 2025
+
+wie immer neuerdings sage ich gar nichts mehr [1] und protokolliere einfach. Ich wurde jetzt seit ca 3h wieder mit ICD10 G40.2 gegrillt. 
+
+ich VERMUTE viele Offiziere besitzen in der Telli Zweitwohnungen als Jägerstände, und die "Bunker Bitch" (formulierung für trump) wäre ein Versprechen auf Mädchen für die Offiziere als Incentives.
+
+Weiss zu dem grad allenfalls irgendjemand mehr?
+
+
+[1] gar nichts sagen ist glaub auch irgendwie autistisch
+* ausserdem verfälsche ich so die Gleichung nicht oder weniger
+* ausserdem wenn ich etwas sagen würde würden die straffälligen Offiziere dann behaupten ich hätte die Frauen mit meinen Mansplaining-Voice Codes selber zer-häckst und dass Offiziere wie in allen Ländern super duper lieb und retter-helden sind
+
+Sat Mar  8 01:50:26 CET 2025
+.> das typo tastatur-sabotage hatte ca. 3 Minuten bis es jetzt versucht meine aussagen abzufangen und zu sabotieren
+
+
+ausserdem Scans: f14c552a696273792e6dbd37128570cdcd323d40
+create mode 100644 tagebuch/2025/maerz/20250308.txt
+
+Sat Mar  8 01:52:05 CET 2025
+
+ausserdem debian trixie ist immer noch krank... 
+
+ich mache jetzt nohcmals ein dist-upgrade, ausserdem die virtuelle soundkarte in meiner virtuellen maschine hat sich irgendwie auch verabschiedet. dann der CODEC macht ja probleme, wäre dort allenfalls im Audio-Teil (auch im Video Codec)
+
+
+
+dist-upgrade hilft nicht, audio immer noch weg in qemu
+
+dann dieser fehler scheint einen "weg maximierer algorihtmus / malware drauf zu haben" also das haben vermutlich shcon viele versucht zu reapreriren und jeder gescheriterte fall ergänzt dann die malware
+
+so bisschen wie das neuro evolving robot operatives von der uni texax, aber für malware und viren statt für bot's welche mit genetischen algrithmen bei jedem erfolgreichen überleben neue generationen davon erstellt
+
+bei diesem ding ist dsa parameter vermutlcih so, dass bei jedem erfolgreichen ableben oder rage-quitten davon neue generatonen erstellt werden damit die herren welche diese cyberwaffen missbruachen sich freuen wenn nerds oder kinder halb drauf gehen
+
+ :/
+ y
+ausserdem in mein medulla spinalis neuralink saut immer noch jemand mit typos (tippfehler) drein :/
+
+diese Virtuelle Maschine welche ich nicht updated habe (auch mit debian Trixie) geht audio noch
+
+dann screenshot problem besteht immer noch, wäre aber nicht in audio, somit wirkt das fast bisschen wie eine vorsätzliche Sabotage
+
+da haben pakete gefehlt,
+
+ein apt-get install gnome gnome-shell ...
+
+installiert die pakete
+
+ gnome-core gnome-remote-desktop pipewire-alsa wireplumber
+
+Deinstalliert gnome-remote-desktop schon wieder
+und rebootet nochmals
+
+ok, audio issue behoben
+
+screenshot problem besteht noch
+
+
+
+
+
+

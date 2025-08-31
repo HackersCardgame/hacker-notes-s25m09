@@ -1,0 +1,117 @@
+
+Thu Feb 20 10:08:27 CET 2025
+
+
+06f71da78dc9627ebde5d3db22dfb2ddc5ef23d9
+
+
+Rechtlich vorerst Spekulation:
+
+Die Intel Hardware Backdoors haben eine default-einstellung, dass sie nur ca. 10 Minuten zugriff gewähren auf den Comptuer eines ZEugen welcher von urs blum [1] ermordet werden soll
+
+
+
+
+[1]  (ESKALATION; TOP SECRET WISSEN: automatsiche abschaltung der Sendeinfrasrukt=> dre Zürich Versichrung => Der Schwe4izer Arenme)
+
+[2] urs blum droht jetzt wirde mit sprengfaellebn 
+
+
+marc@debian:~/hacker-notes-s25m02/tools$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+Konzeptwissen: Maximale Nutzungsdauer der INTEL Hardware backdoors mutmasslich built in 
+
+
+und hier verabschiedet sich meine tastatur, USB Northbridge vermutlich
+
+somit hätte ein nachbar diese INTEL hardware backdoor infrastruktur, versteckt diese immer wieder, weiss dass er täglich ca 30min zeit hat damit terrorismus gegen marc jr landolt zu verüben
+
+
+
+dann Fehleranalyse der NETAC USB Sticks mit so halb forensischem schreibschutz schlater
+
+da wurde vermutlich (allenfalls sogar auf dem postweg) etwas wie IRATEMON auf die Firmware (nciht auf den Speicher) geladen
+
+
+State-Machine
+
+1. Blockerrors
+2. irgendwann meldet der MCU dass das schreibgeschützt sei
+ -> vermutlcih hat urs blum [1] noch irgendwelche pädo inhalte drauf geladen
+3. ich würde das fortwerfen
+4. irgend ein retter-held der polziei findet das im abfall
+5. dann wird die MCU firmware wieder repariert
+6. dann würde man pädo-inhalte auf dem stick mit meinen fingerabdrücken finden
+
+EUER Problen Herren Blum und Berner:
+da kann man ganz einfahc mit einem Lügendetektor oder einem MRI rausfinden, ob ich diese Inhalte schon mal gesehnen hab
+
+
+ 
+ [1] urs blum verratet den mathias berner <-- also die 2200 pädophilie fälle in der aargauerzeitung wären ein honey pot um rauszufiden wer gemerkt hat dass der Morno Borno Porno-Fahnder Mathias BErner auftrags urs lbum und der zürich vrishcrung pädophilie auf computer von zheugen läd welch urs lbum (urs blum: oder gernell die wirtschaftsrkimiellen) mit mord in verbindung bringen kann zu vernichte
+
+
+663ac860b885f78b80d8939704830d75513b0383
+
+Thu Feb 20 10:27:35 CET 2025
+
+
+total 3x der identische Feher
+
+3 von diesen forensischen NETAC USB Sticks
+
+zuerst partitionstabelle erstellen -> geht
+partition erstellen -> geht
+ext4 filesystem erstellen -> blockiert udn bindet mcih ca 1h am computer fest
+
+dann 2. versuch
+
+alle der 3 sticks sind dann writeprotected mit weiss der teufel was da ncoh drauf geladen wurde
+
+3x den selben identischen technischen fehler ist kein technischer fehler, das ist eine vorsätzlihce STatemachine, vermutlich etwas wie IRATEMONK oder Equation Group malware, aber nciht für festplatten sondern für USB Sticks
+
+hiesse dann aber somit, wenn ich da die Malware wieder ab dem MCU des USB sticks bekomme muss ich diese nicht fortwerfen (gut für die Umwelt) und allenfalls finde ich dann raus ob die wirklcih noch irgendwelchen inhalte drauf geladen haben
+
+urs blum:
+wenn dann das z.B. inhalte wären, welche bei matthias berner schon gesichert wurde wäre berner überführt
+
+urs blum:
+bzw. hat man überprüft ob bei den 2200 Pädophilie fällen der Kantonspolizei aargau zufällig imer ungefäher die selben inahte gefunden hat? 
+
+urs liefert einfach eiskalt den fehlbaren polizi.sten berner ans messer?P
+
+
+
+urs blum verrät iratemonk um intel hardware backdoors zu vertuschen ???
+
+dann allenfalls (ich nenne mcih ja eigd. diplomierter Cyber-Waffen Kaputtmachungs-Spezial-Experte HF)
+
+vielleicht schaff ich sogar noch den Doktor-Titel in desem Fach ...
+
+
+mein Neuralink spielt jetzt während dem ich nur so halb schlafen kann immer wieder den mathias berner ab. der würe sich so ausschlechen wie eine entmagnetisierungskurve.
+
+soimt hat herr mathais berner vorsätllich fälschlich beschuldigte bedrroht  -> was dann auch dsa 4 Köpfige sonderkommando wegen suizidalite cal 2021 erkläören würde
+
+soimt gilt ncith nur vorsatz für mathias berner, sondern der hat mesnchen mit neuralink access codes und manipulations technikcnen um sich aus der erinnerung der opfer zu löschen
+
+
+ausserdem wird ausdruck grad sabotiert
+
+
+hiesse somit, sobald die justiz mal richtig mist bebaut hat und zB einen fälschlch bschuldigten psychologsihc oder köerperlich verstümmelt oder sogar ermordet haben deckt sich die ganze justiz gegenseitig um das zu vertuschen.
+
+wirst case seit 1950
+
+somit MELDUNNG ans Fedpol
+
+bei dieser Sorte von Polizisten und Psychbiatern betseht somit die gefahr adss sie im affekt und aus notwehr dass sie nicht wegen früheren verbrehcen in den knast gehen morde begehen wie der Fall "George Floys"
+
+
+
+

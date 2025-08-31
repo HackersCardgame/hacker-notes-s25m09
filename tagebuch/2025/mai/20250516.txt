@@ -1,0 +1,71 @@
+05:31
+
+
+Steueramt = Volkszählung
+Voklszählung = Mordvorbereitungen (wie mit den Lochkarten im WW2, juden erfassen)
+
+anweisung an die Eltern oder Lehen und Genehmigung war seit 1980: ihr dürft eure kinder und die anderen Menschen aus der Generation eurer kinder versklaven und ausbeuten, aber wenn ein kind es rausfindet dann müsst ihr euer eigenes kind ermorden. und aber die armee verrät diese eltern jeweils
+
+
+
+steueramt hat kräftig zugeggriffen und musste bereits vor 1999 alle ermorden wlche es heraus fanden, und so knnte urs blum, die zürich verischrung und die Schweizer armee so tun als wären sie unbeteiligt
+
+
+Technisches Disassembly:
+
+die Steueramt-Software hat scheinbar einfach mehr berechtigungen um ICD10 G40.2 zu induzieren (induzierte Epilepise)
+
+Viele Mitarbeiter welche mit Steueramt-Software zu tun haben haben noch die HTL absolviert (also ältere Menschen), die HTL ist grad neben der Psychiatrie, und sowohl die HTL als auch die Psychiatrie Königsfelden hängt am selben Computer-Netzwerk wie das Steueramt.
+
+Diese Herren verüben somit vorsätzlich Mord an Zeugen im Kontext der "Voklszählung" bzw. der Steueramt Software Easy Tax für Auftraggeber wie Urs Blum der Zürich Versichrung welcher mutmasslich dem Herrn Philipp Lüscher den Mordauftrag an den 3 ABB Administratoren gegeben hat dass der andere Mitarbeiter der Zürich Versichrung (Herr Gabriel Riela) Footprinting und Ennumeration ohne die 3 Administratoren welche das gemerkt hätten machen konnte.
+
+"Leider" haben die Herren Blum, Riela, Widmer, Daester ... die technischen Fähigkeiten von Marc jr Landolt als 20 Jähriger unterschätzt und sind jetzt hat "LEIDER" aufgeflogen, und haben auch die HTL verraten.
+
+ohne Beweisfotos bin ich ja wieder nur ein Schizophrener Spinner:
+
+ create mode 100755 FEDPOL/problem.steueramt.as400.telemtetrie/DSC06444.JPG
+ create mode 100755 FEDPOL/problem.steueramt.as400.telemtetrie/DSC06445.JPG
+
+dann greift das Steueramt bzw. die HTL / Militär-Netzwerk / RaumÜberwachung auch auf die Positionsdaten der benötigten Papiere zu und versucht den Zeugen dazu zu bringen diese zu verlieren
+
+bei dieser Meldung schaltet ICD10 G40.2 auf doppelt so starken pegel wie sonst das maximum ist
+DSC06444.JPG
+
+dann als das marc jr landolt protokolliert versucth man das mit dem "sorry update problem" zu verschleiern -> eine exit-strategie impliziert planung und planung impizliert vorsatz
+
+DSC06445.JPG
+
+
+also technisch können die Herren der HTL einfach mehr sendepegel aktivieren, bzw. haben da ncoh weitere access codes ...
+
+Fälle
+* tödlicher Verkehrsunfall von Hanspeter Müllers Frau
+* feuerwehrmann gautschi tötet Mutter mit Kind im Kleinwagen
+* amoklauf Michael boeringer
+* amoklauf Hapte Avaya (da hätte die HTL allenfalls zusätzliche mobile Sendeinfrastruktur in Frankfurt am Bahnhof aufgestellt gehabt)
+
+... sollten somit auch unter dieser Perspektive analysiert werden
+
+
+marc@debian:~$ figlet Kleineren
+
+Für die ...
+ _  ___      _                           
+| |/ / | ___(_)_ __   ___ _ __ ___ _ __  
+| ' /| |/ _ \ | '_ \ / _ \ '__/ _ \ '_ \ 
+| . \| |  __/ | | | |  __/ | |  __/ | | |
+|_|\_\_|\___|_|_| |_|\___|_|  \___|_| |_|
+                                         
+... hilft es als Coping-Strategie allenfalls zu wissen, dass die Steueramt Software scheinbar
+
+0. Steuern zahlen = Volkszählung, wie damals mit den Lochkarten von IBM im WW2 die Juden erfasst wurden
+1. mehr Sendeleistung / Sendeberechtigungen für induzierte Epilepise
+2. dazu bereits viel Sabotage vorbereitet wurde, allenfalls während eines ganzen Jahres seit der letzten Verwendung von EasyTax
+3. dass parallel dass man veruscht den/die Zeugen/in zu ermorden noch Klagen vorausgerendert hat, zB. das ERROR Symbol was wie ein Stopp-Schild im Strassenverkehr aussieht würde dann loopen "es ist weil du dort und dort ein Stoppschild missachtet hast" [1]
+
+[1] hat es auch bei mir geloopt, aber ich habe ja schon seit jahren keinen führerschein mehr und fahre mit dem Fahrrad sowieso nie mehr hauptstrasse sondern wenn es geht fahrradwege, feldwege, waldwege
+
+Sincerely HackersCardgame.org
+welches sich zu 100.000% Whitehat Hacktivismus bekennt
+
+

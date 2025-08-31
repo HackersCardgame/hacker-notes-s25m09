@@ -1,0 +1,70 @@
+
+Tue Feb 18 23:43:05 CET 2025
+
+dann scheint im aktuellen debian trixie grad das gedit komplett broken zu sein, mit einem deadlock und sandgrube
+
+und da scheinen auch grad irgendwelche triebtäter aus dem Umfeld von Urs Blum das zum suizid trigger ausweiten zu wollen
+
+
+Tue Feb 18 23:44:20 CET 2025
+
+6e1a66f5ad2b5765f39cd76691b4bddf64234049
+
+
+urs blum:
+also das wäre vielleicht genau so eine automatische hühner schlachtmaschine wie der hansueli thut erwänt hat welche er gebaut haben soll, aber ncihtd für tiere sondern für linux-nerds (Pinguin ist das maskottchen von Linux)
+
+
+dann auch audio merkwürdig
+
+ich vermute die Täter koordinieren das wie in meinem leben sonst auch.
+
+mehrere cyber-sprengfallen (scheinbar zugeschnitten auf mcih) auch z.B im Mixxx Musik player ...
+
+das wurde aber grad aktiviert
+
+also ich vermute da gibt es 
+
+1. cyber-sprengfallen
+2. irgendwelche dorftrottel mit offiziers-titel welche die Sprengzünder bekommen
+
+
+Wed Feb 19 00:25:37 CET 2025
+
+[main 5ef589e] ...
+ 3 files changed, 17 insertions(+)
+ create mode 100644 BUG_REPORTs/debian/allenfalls..ein.ganzes.subset.an.sabotagen.ev.koordiniert.Screenshot From 2025-02-19 00-24-01.png
+ create mode 100644 tagebuch/2025/februar/.20250218b.txt.swp
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
+5ef589e85086545da5f61d453508fe3a36337919
+[main 28d6815] ...
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:HackersCardgame/hacker-notes-s25m02.git        
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   e730fd0..28d6815  main -> main
+28d68152c3b86eafb069031b984cc32802d7f78a
+
+dann scheint ein ziel des system zu sein mich mit einem regelkreis nicht nur psychotisch sondern auch leicht dissoziativ machen zu wollen
+
+
+
+
+Wed Feb 19 01:29:42 CET 2025
+
+28d68152c3b86eafb069031b984cc32802d7f78a
+[main 2f71cc0] ...
+ 2 files changed, 25 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:HackersCardgame/hacker-notes-s25m02.git        
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   28d6815..2f71cc0  main -> main
+2f71cc06622e3c4d1ecd5879eaf511d169151e9a
+
+
