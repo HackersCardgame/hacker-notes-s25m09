@@ -6,4 +6,11 @@ die Zürich Versichrung ist nicht nur schachmatt, sondern die meisten der Täter
 
 Tue Sep  2 01:17:49 CEST 2025
 
+01:38:
+
+scans:
+~/hacker-notes-s25m09/FEDPOL/scans/41/BRN3C2AF421298E_067785--4151-4186.pdf
+
+voice:
+~/hacker-notes-s25m09/FEDPOL/voice/202509/
 
