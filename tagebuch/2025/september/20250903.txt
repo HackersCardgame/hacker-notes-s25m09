@@ -21,6 +21,39 @@ für Cyber-Waffen und Neurowaffen gäbe es jeweils auch eine Ausbildung, das wü
 
 12:29:
 
+marc@debian:~/hacker-notes-s25m09/FEDPOL$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s25m09/FEDPOL$ figlet Polizei Aarau
+ ____       _ _         _      _                         
+|  _ \ ___ | (_)_______(_)    / \   __ _ _ __ __ _ _   _ 
+| |_) / _ \| | |_  / _ \ |   / _ \ / _` | '__/ _` | | | |
+|  __/ (_) | | |/ /  __/ |  / ___ \ (_| | | | (_| | |_| |
+|_|   \___/|_|_/___\___|_| /_/   \_\__,_|_|  \__,_|\__,_|
+                                                         
+marc@debian:~/hacker-notes-s25m09/FEDPOL$ 
+
+
 dann ist mir grad aufgefallen, dass Swatting nicht nur das Opfer trifft, sodern es kompromitiert auch die aufgebotenen polizisten und wenn das zB die Zürich Versichrung in Auftrag gegeben hat mit dem Florian Philipp Müller, dann hätte er Florian auch gesagt dass er bei Frau Neucom bei der Stadtpolizei anrufen soll, und das zu zeiten wo der Markus Frehner dienst hat. Somit steht Markus Frehner allenfalls auf dem Speiseplan von Urs Blum und/oder der Zürich Versichrung...
 
+
+marc@debian:~/hacker-notes-s25m09/FEDPOL$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s25m09/FEDPOL$ figlet Polizei Aarau
+ ____       _ _         _      _                         
+|  _ \ ___ | (_)_______(_)    / \   __ _ _ __ __ _ _   _ 
+| |_) / _ \| | |_  / _ \ |   / _ \ / _` | '__/ _` | | | |
+|  __/ (_) | | |/ /  __/ |  / ___ \ (_| | | | (_| | |_| |
+|_|   \___/|_|_/___\___|_| /_/   \_\__,_|_|  \__,_|\__,_|
+                                                         
+marc@debian:~/hacker-notes-s25m09/FEDPOL$ 
 
