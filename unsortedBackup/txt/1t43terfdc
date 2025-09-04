@@ -1,0 +1,60 @@
+Deine Informatik Ratschläge sind auch nur so mässig, du sagst
+
+* Passwort-Safe => single Point of failure
+hat ein Blackhat das Passwort des saves hat er alle passwörter und kann die ganze digitale Existenz vernichten
+
+* gehashte Kette => machtm an backup auf zB. github (auch private Repositories) und trägt den letzten Hash vom Monat 2025/4 ins Repository vom Monat 2025/5 erkennt das Microsoft Github und löscht praktisch alle Repositories (auch private nicht öffenltiche) OHNE überhaupt zu sagen weshalb
+-> Fetternwirtschaft, die Täter, Wirtschaftskrinminellen, Blackhats und Mörder kennen sich international
+===> bzw. frage ich mich da ob Du das genau deswegen empfiehlst, weil das könnte man problemlos mit einem Script automatisiert herausfinden (das war das vorhin mit dem "Du lässt mich ins offene Messer laufen")
+
+* Geräte-„Siegel“: Schrauben mit Tamper-Seal
+-> da kann man kein FOTO machen, da muss man eine Skitze machen, auch wenn man die Wohung mit einem Siegel versiegelt, ich wurde bereits über 10 Male von Poliziei oder sonstigen Natürlichen oder Juristischen Personen zusamme geschlagen, dann wird das so dargestellt als wäre ich der täter, werde in die Psychiatrie gesperrt und unter dem Vorwand dass man kontrollieren müsse ob ich Stichwaffen in meinen Gegenständen [1]
+
+* Belegsammelmappe: Pro Ereignis eine Seite „Deckblatt“
+-> sorry ich gehe täglich halb drauf und Du empfiehlst "Mach mal ein Deckblat" und das wort "Decken" würde dann wieder das Generalisierte Traumata kontext s**ueller Integrität triggern
+
+
+
+[1] bzw. scheint die Kantonspolizei Aargau Posten Kapo West diesen Schachzug "wir müssen kontrollieren ob Marc jr Schusswaffen im Bankschliessfach hat" auch dazu missbraucht um an mein Bankschliessfach bei der UBS Aarau zu kommen wo ich Datenträger aufbewahre, wo dann der Herr feine Polizist Michel Ritter sagt "er müsse Dokumentieren dass WIRKLICH keine Schusswaffen in meinem Bankschliessfach sind und dann alle Seriennummern der Datenträger abfotographiert hat, was auch nur dann sinn macht wenn die Zürich Versicherung bereits ein schweizweites Zensurnetzwerk welches fast überall drauf zugriff hat betreiben würde
+
+-> also zu diesen Dingen, Bugreport an Kernel.org von gestern, denn diese Dinge sind dynamisch, also das "Capture The Flag" welches die Zürich Versichrung in der Justiz überall betreibt betreibt sie auch in der Informatik oder unter den Kernel-Developer [3]:
+
+https://bugzilla.kernel.org/show_bug.cgi?id=220475 [2]
+
+ [2] ============ SNIP ============
+ Marc Landolt 2025-08-19 23:47:38 UTC
+
+Hello MD / RAID Team,
+
+Linux RAID (mdadm) refuses even to read from RAID disks that are attached with forensic hardware write protection (n > 2).
+
+The mdadm switch --readonly does not really help.
+
+The only option is to remove the hardware write protection, but from a forensic perspective, this might not be the best idea.
+
+Kind regards,
+Marc Jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+Switzerland
+
+
+
+[3] Morde welche Wirtschaftskrimninelle welche Dinge vertuschen oder zensieren wollen können begünstigen
+(aber zum Punkt [3] gar nichts zusätzliches, das ist nur weiterführende Info für Menschen welche das hier lesen)
+
+* Ermordung von Ian Murdock
+
+* Ermordung des Neffen des Talks "Tip Toy Hacking" (kurz nach dem er an einer DEBCONF war) 
+-> ich habe mit ihm gemailt, er wurde massiv mehr psychisch verstümmelt als ich damit
+
+* Ermordung von Aaron Swartz
+
+ und diese Liste ist noch massiv, massiv MASSIV länger
+
+Unsicher ob das nicht auch mord war
+* Diabetische Ketoazidose Dan Kaminsky
+* ungeklärter tod Hacker des CCC Mitglieds Tron
+
+also ich "speiele" eher in dieser Liga, bzw. ist es kein Spiel und ich würde lieber kreatives machen wie zB. Musik oder Software programmieren

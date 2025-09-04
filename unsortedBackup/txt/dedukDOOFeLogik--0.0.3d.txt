@@ -1,0 +1,29 @@
+Sehr gerne! Hier ist die neu strukturierte Tabelle nach Bloom, bei der jede Taxonomiestufe der Reihe nach kommt. Innerhalb jeder Stufe stehen die Lernformen, die sie typischerweise bedienen, und eine knappe Erklärung:
+🧠 Kognitive Lernziele
+Stufe (Bloom)	Lernformen	Erklärung
+1. Wissen	Instruktives Lernen	Fakten und Begriffe auswendig lernen.
+2. Verstehen	Instruktives Lernen, Schematisch-konstruktiv	Zusammenhänge erkennen, Erklärungen geben.
+3. Anwenden	Deduktives Denken, Instruktives Lernen	Gelerntes auf neue Situationen übertragen.
+4. Analyse	Induktives Denken, Deduktives Denken	Zerlegen, untersuchen, strukturieren.
+5. Synthese	Induktives Denken, Schematisch-konstruktiv	Eigenes Wissen zusammensetzen, Neues entwerfen.
+6. Evaluation	Metakognition, Abduktives Denken	Urteilen, bewerten, Hypothesen prüfen.
+❤️ Affektive Lernziele
+Stufe (Bloom)	Lernformen	Erklärung
+1. Aufmerksam werden (Receiving)	Instruktives Lernen	Offen sein für Reize und Inhalte.
+2. Reagieren (Responding)	Instruktives, Soziokulturelles Lernen	Aktive Teilnahme, emotionale Reaktionen.
+3. Werten (Valuing)	Schematisch-konstruktiv, Soziokulturelles Lernen	Etwas als wertvoll empfinden, engagieren.
+4. Werte organisieren (Organization)	Metakognition, Schematisch-konstruktiv	Eigene Wertehierarchien entwickeln.
+5. Charakteristika eines Wertesystems (Characterization)	Abduktives Denken, Metakognition	Werte sind verinnerlicht und bestimmen das Verhalten.
+🤲 Psychomotorische Lernziele
+
+(nach Simpson, da Bloom diesen Bereich nicht detailliert hatte)
+Stufe (erweiterte Bloom-Taxonomie)	Lernformen	Erklärung
+1. Wahrnehmung (Perception)	Instruktives Lernen	Reize erkennen und unterscheiden lernen.
+2. Bereitschaft zur Handlung (Set)	Soziokulturelles Lernen	Motivation, sich körperlich einzubringen.
+3. Imitation	Instruktives Lernen, Schematisch-konstruktiv	Vorbildhandlungen nachahmen.
+4. Manipulation	Schematisch-konstruktiv, Instruktives Lernen	Handlungen bewusst ausführen und variieren.
+5. Präzision	Metakognition, Abduktives Denken	Fertigkeiten mit Genauigkeit und Routine durchführen.
+6. Handlungsgliederung (Articulation)	Abduktives Denken, Soziokulturelles Lernen	Komplexe Handlungsabfolgen verbinden und steuern.
+7. Naturalisation	Metakognition, Soziokulturelles Lernen	Bewegungsabläufe automatisieren, flüssig und sicher einsetzen.
+
+Wenn du möchtest, kann ich auch die psychomotorischen Stufen auf die offiziellen Bloom-Stufen "übersetzen", oder du bekommst eine grafische Übersicht, z. B. in Pyramidenform oder als Tabelle mit Icons/Farben. Sag einfach Bescheid!

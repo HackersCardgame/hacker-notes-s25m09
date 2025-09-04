@@ -1,0 +1,63 @@
+wird der Cyber Resilience Act (CRA) dazu benutz werden open source zu zerstören und de facto eher "backdoor compliance" für gov-ware zu erzwingen oder besteht da hoffnung dass sich die globale überwachungssituation irgendwann mal verbessert und nicht jedes Land oder grösserer Konzern überall zugreifen kann wie er will?
+
+Stichwort dem was Jacob Appelbaum in seinem Snowden-Leaks Talk sagt:
+Jacob Appelbaum at 30c3: To Protect And Infect, The Militarization of the Internet
+
+" ...
+ shows that there are so many compromises taking place between the different Five Eyes signals intelligence groups that they actually have lists that explain, “If you see this back door on the system, contact a friendly agency. You’ve just recompromised the machine of another person.”
+
+..."
+ChatGPT said:
+
+Deine Frage geht im Kern über das doppelte Gesicht solcher Gesetze:
+offiziell geht es um Sicherheit, aber in der Praxis kann es sowohl als Schutzinstrument als auch als Machtinstrument eingesetzt werden – und das hängt von politischen Kräften, wirtschaftlichen Interessen und der Sicherheitskultur ab.
+1. Open Source und der CRA
+
+    Ausnahme vorgesehen: Nicht-kommerzielle, rein ehrenamtlich entwickelte Open-Source-Projekte sind formal ausgenommen.
+
+    Problemzone: Sobald Open Source kommerziell vertrieben, in Hardware eingebettet oder als Teil eines Produkts verkauft wird, greift der CRA mit seinen Pflichten (SBOM, Schwachstellen-Reporting, Sicherheitsupdates, Konformitätsprüfung).
+
+    Risiko: Kleine OSS-Teams oder Maintainer, deren Code in kommerzielle Produkte einfließt, könnten durch Haftungsrisiken und Bürokratie abgeschreckt werden. Das kann faktisch zu weniger frei entwickeltem Code führen – und damit indirekt zu Marktkonzentration bei großen Playern, die sich die Compliance leisten können.
+
+    Potenzial für Missbrauch: Große Hersteller könnten Sicherheitszertifizierungen so gestalten, dass nur „zertifizierte“ Libraries erlaubt sind, womit man OSS aus dem Wettbewerb drängt oder in kontrollierbare Kanäle zwingt.
+
+2. Backdoor-Compliance
+
+    Jacob Appelbaums Punkt aus dem 30c3-Talk („If you see this back door, contact a friendly agency“) zeigt, wie sich Staaten über gegenseitige Abkommen in ihren Backdoor-Zugriffen nicht in die Quere kommen – und das heißt umgekehrt:
+
+        Wenn Regulierung Sicherheitsprüfungen oder verpflichtende Zertifizierungen zentralisiert, könnten diese Prüfprozesse dazu benutzt werden, Backdoors unauffällig als „erlaubte Sicherheitsfunktionen“ durchzuwinken.
+
+        Es gibt Beispiele aus der Vergangenheit: Dual_EC_DRBG (NSA-verdächtiger Pseudozufallszahlengenerator im NIST-Standard), „lawful intercept“ in Mobilfunkstandards, oder absichtlich schwache Exportverschlüsselung in den 90ern.
+
+    CRA könnte, wenn er politisch missbraucht wird, als Hebel dienen, um nur solche Produkte auf den Markt zu lassen, die „prüfbar“ sind – und diese Prüfung könnte in der Praxis staatliche Hintertüren tolerieren.
+
+3. Hoffnung auf Besserung der Überwachungssituation
+
+    Positiv-Szenario:
+
+        CRA zwingt Hersteller zu Transparenz (SBOM), Meldung von Schwachstellen, langfristiger Update-Pflege → macht es schwerer, unentdeckte Hintertüren über Jahre zu halten.
+
+        Zivilgesellschaft und Journalismus (wie Appelbaum, Citizen Lab, EFF) können diese neuen Offenlegungspflichten nutzen, um Missbrauch öffentlich zu machen.
+
+    Negativ-Szenario:
+
+        Staaten missbrauchen das Gesetz, um einen globalen Sicherheitsstandard zu etablieren, der in Wahrheit ein globaler Überwachungsstandard ist.
+
+        „Sicherheit“ wird so definiert, dass sie zwar vor anderen Hackern schützt, aber nicht vor staatlichen Akteuren der befreundeten Dienste (Five Eyes, EU-Geheimdienste).
+
+        Das führt zu einer formal sicheren, aber real „verwalteten“ digitalen Infrastruktur – für Konzerne und Regierungen bequem, für die Privatsphäre fatal.
+
+4. Mein nüchternes Fazit
+
+    Der CRA kann ein Werkzeug für mehr Sicherheit und weniger unkontrollierte Überwachung sein – wenn Zivilgesellschaft, unabhängige Security-Researcher und freie Medien die Umsetzung kritisch begleiten.
+
+    Er kann aber genauso gut zum Einfallstor für zentralisierte Kontrolle werden, bei der nur noch Produkte erlaubt sind, die „kompatibel“ mit den Überwachungsinteressen großer Staaten sind.
+
+    Die Snowden-Leaks zeigen, dass selbst Sicherheitsstandards oft politisch kompromittiert wurden – und ohne starken, unabhängigen Audit-Mechanismus ist das Risiko real, dass die „Resilienz“ im Namen des Gesetzes eine resiliente Überwachungsinfrastruktur meint.
+
+Wenn du willst, kann ich dir als nächsten Schritt eine Risiko-Matrix machen, die genau aufschlüsselt, welche CRA-Regelungen mehr Sicherheit bringen und welche für „Backdoor-Compliance“ missbraucht werden könnten – das würde dein Appelbaum-Zitat in einen aktuellen EU-Kontext setzen.
+Willst du, dass ich das ausarbeite?
+
+
+ChatGPT can make mistakes. Check important info.
+

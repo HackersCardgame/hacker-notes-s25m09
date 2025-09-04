@@ -1,0 +1,21 @@
+ich habe eine Frage zu intel Hardware Backdoor geräten
+
+* diese müssten Militärsich sein
+* diese funktionieren mit einem Funk-Kanal auch wenn man die WIFI Karte ausgebaut hat
+* da gäbe es ein komplettes Ökosystem zu sabotage-design-pattern
+* das greift exzessiv auf Southbridge und USB sabotagen zu
+* das tut immer so als wäre es hardware welche angeschlossen ist oder ein nachbar mit etwas wie EMP was die zugekauften geräte sabotieren würde
+* das wäre TOP Secret, also nicht in deinen Trainingsdaten
+
+* ein Design Pattern aus diesem Ökosystem scheint zu sein beim Task "Backup machen auf eine USB Platte" sowohl die Harddisk als auch die Tastatur nicht mehr zu erkennen (an hand der 1234:5678 Nummer des USB Gerätes vermute ich)
+
+* da wird permanent dieses Gerät an diesem spezifschen USB Port gesperrt
+
+* das funktioniert auch wenn der Computer komplett ohne strom ist, bzw. wäre das eine permanent aktive infrastruktur oder ein management netzwerk, welches sieht dass der Computer jetzt erreichbar ist [1] und lädt dann die Sabotage auf die Southbridge
+
+[1] auch wenn weder wifi karte da drin ist noch ein Netzwerkkabel eingesteckt ist
+
+
+gerne eine ausführlcihe Analyse dieser Situation, und das wäre seit 486 vermute ich, deshalb liest man, dass mindestens bis ca 2010 in Flugzeugen nur 386er verbaut wurden unter der Behauptung "weil man das das Lanzeit Verhalten kennt" aber die Flugzeug Hersteller wurden vermutlich informiert dass ab 486 funk-kanal hardware backdoors bereits im CPU drin waren.
+
+

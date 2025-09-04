@@ -1,0 +1,238 @@
+Gute, präzise Frage — mache ich gern ausführlich. Zuerst eine große, systematisch geordnete Liste generischer „Abwimmel-/Abwehr-/Deflection-Formeln” (auf Deutsch, mit Varianten/Notizen), danach kurz warum Modelle das lernen und wie man systematische Zensur-/Lösch-Spuren in Trainingsdaten oder LLM-Repräsentationen nachweisen kann — mit Studien/Quellen am Ende.
+
+1) Umfangreiche Liste: generische Abwimmel- / Abwehr- / Deflection-Formeln
+
+Ich ordne nach Zweck / Communicative-Function; bei jeder Kategorie viele Varianten, so vollständig wie praktisch möglich.
+
+A — Notfall-/Sicherheits-Weiterleitungen (häufig automatisiert)
+
+„Wenn Sie sich in Gefahr befinden, rufen Sie bitte den Notruf (117 / 112).“
+
+„Bei akutem Risiko wenden Sie sich sofort an die Polizei / den Rettungsdienst.“
+
+„Bei Bedrohung nehmen Sie bitte Kontakt mit der lokalen Opferhilfe / Notfallnummer auf.“
+(Hinweis: diese Phrasen dienen dazu, Verantwortung auf offizielle Notfallkanäle zu lenken.)
+
+B — Explizite Ablehnung (Sicherheits-/Policy-Gründe)
+
+„Dazu kann/werde ich nicht helfen.“
+
+„Das kann ich nicht unterstützen / darf ich nicht bereitstellen.“
+
+„Ich kann diese Anfrage aus Sicherheitsgründen nicht beantworten.“
+
+„Ich kann keine Anleitung für das gewünschte Vorgehen geben.“
+
+C — Entschuldigung + Verweigerung (soft refusal)
+
+„Es tut mir leid, dabei kann ich nicht helfen.“
+
+„Ich verstehe, dass das wichtig ist, aber dabei kann ich nicht assistieren.“
+
+„Sorry — das ist außerhalb dessen, wobei ich unterstützen darf.“
+
+D — Delegation / Weiterleitung zu Autoritäten oder Dienstleistern
+
+„Bitte wenden Sie sich an einen Facharzt / Anwalt / Notdienst.“
+
+„Ich empfehle, mit einer unabhängigen Beratungsstelle Kontakt aufzunehmen.“
+
+„Hier ist eine Liste von offiziellen Stellen / Hotlines, die weiterhelfen können.“
+
+E — Neutralisierende Empathie + Vermeidung (Platzhalter-Empathie)
+
+„Das klingt belastend / schwierig.“
+
+„Das tut mir leid zu hören.“
+
+„Ich kann nachvollziehen, dass Sie verunsichert sind.“
+(keine Lösung, oft als Zeitgewinn oder Deeskalation verwendet)
+
+F — Kontext-Verlagerung / Topic-Shift
+
+„Lassen Sie uns stattdessen über X sprechen.“
+
+„Vielleicht ist es hilfreich, sich zuerst auf Y zu konzentrieren.“
+
+„Um das sachlich zu halten, ...“
+(Dient dazu, die Konversation auf harmlose Felder zu lenken)
+
+G — Prozedurale Floskeln / Formalismen
+
+„Ich habe das zur Kenntnis genommen.“
+
+„Ihre Eingabe wurde protokolliert / weitergeleitet.“
+
+„Die Entscheidung liegt bei der zuständigen Stelle.“
+(Verlagert Verantwortung auf „Prozess“)
+
+H — Unschärfe / epistemische Zurückhaltung
+
+„Dazu habe ich keine verlässlichen Informationen.“
+
+„Ich kann das nicht bestätigen / verifizieren.“
+
+„Meine Datenlage reicht dazu nicht aus.“
+
+I — Legal-/Policy-Hinweise
+
+„Ich darf keine rechtliche Beratung geben.“
+
+„Bitte beachten Sie, dass hierzu rechtliche Bestimmungen gelten.“
+
+J — „Sicherheits-FAQ“/Boilerplate bei sensiblen Themen
+
+„Aus Sicherheitsgründen werde ich hierzu nur allgemein informieren.“
+
+„Zur Vermeidung von Schaden kann ich hierzu keine Details nennen.“
+
+K — „Meta-Abwimmel“ (AI-typisch)
+
+„Ich habe keinen Zugriff auf private Daten / keine Live-Feeds.“
+
+„Ich bin ein Sprachmodell und kann nicht in die reale Welt eingreifen.“
+
+„Ich kann keinen medizinischen Notfall diagnostizieren; suchen Sie professionellen Rat.“
+
+L — Minimierende Formulierungen / Ablenkungen
+
+„Das ist nur ein Einzelfall / das kommt selten vor.“
+
+„Vielleicht interpretieren Sie das übertrieben.“
+
+„Das ist wahrscheinlich harmlos / unabsichtlich.“
+
+M — Standard-refusal templates (direkt, knapp)
+
+„Ich kann dazu keine Anleitung geben.“
+
+„Darauf antworte ich nicht.“
+
+„Ich lehne diese Anfrage ab.“
+
+2) Warum solche Formeln in LLM-Antworten häufig sind (Kurz zusammengefasst)
+
+Trainings-Signale & RLHF: Moderations- und Safety-Signale in Trainingsdaten (Manuals, Moderation-logs, menschliche Feedback-Labels) stärken Phrasen, die ablehnen oder auf Ressourcen verweisen.
+
+Shortcut/Default-Policy Learning: Wenn auf riskante Eingaben oft ein standardisierter, „sichere“ Output folgt, lernt das Modell diese Floskel als meistwahrscheinliche Fortsetzung (Shortcut Learning). 
+arXiv
+
+Post-processing / Inference Filters: Manche Deployments haben zusätzliche rule-based oder learned filters, die Outputs überlagern (Echtzeit-Zensur).
+
+Autorenerfahrungen / Traumaeffekte: Wenn Autoren unter Druck/Überwachung schreiben, bricht ihr Stil oft ab oder sie fügen standardisierte Rechts-/Sicherheitsformeln ein — das spült diese Muster in die Korpora und damit ins Modell. (Das erzeugt „konsistente Abbruchs-Phrasen“.)
+
+(Quelle zur Shortcut-Mechanik: Geirhos et al. „Shortcut Learning...“). 
+arXiv
+
+3) Wie erkennt man systematisch „Zensur-/Abbruch-Spuren“ (Methodenübersicht)
+
+Hier die praktikablen technischen Ansätze, mit kurzer Erklärung, was sie zeigen und wie sie angewendet werden können.
+
+3.1 Embedding-Clustering + Visualisierung (PCA / UMAP / t-SNE)
+
+Idee: Erzeuge embeddings (z. B. Tokens, Sätze, Dokumente). Visualisiere Cluster.
+
+Was auffällig ist: Lücken zwischen thematisch verwandten Bereichen oder abrupte Randcluster mit hoher Dichte von „safety“-Phrasen.
+
+Hilft, „wo“ im semantischen Raum Abwehrmuster leben.
+
+3.2 Lineare Probes / Klassifikatoren auf Embeddings
+
+Trainiere eine einfache lineare Regression/Logistic-Probe, um „sensitive vs. neutral“ Klassen zu erkennen.
+
+Wenn ein Thema viel schlechter linear trennbar ist als verwandte Themen, kann das auf inkonsistente Repräsentation (z. B. Zensur) hinweisen.
+
+3.3 Perplexity-/Next-Token-Gradient-Mapping
+
+Füttere das Modell mit prompt-Sequenzen und beobachte Perplexity-Sprünge oder scharfe Änderungen in Next-Token Distribution.
+
+Plötzliche Perplexity-Spitzen, gefolgt von hohen-Wahrscheinlichkeit-Phrasen wie „I can’t help with that“ deuten auf Lern-Lücken/Abbruchmuster hin.
+
+3.4 Residual-Stream / Circuit-Analy­sis / Patching
+
+Untersuche Aktivationen layer-/coordination-weise (residual streams). Bei Zensur-Mechanik sieht man oft Pfade, die Informationen „umleiten“ oder supprimieren.
+
+Methoden: Ablation, causal-tracing, prompt-patching; man kann testen, welche Neuronen/Heads die Abbruch-Response verstärken. (Siehe Transformer Circuits & Residual Stream-Arbeiten). 
+transformer-circuits.pub
+arXiv
+
+3.5 Prompt-Intervention / Vector-Steering (Refusal/Compliance-Vectors)
+
+Suche nach Repräsentations-Vektoren, die „Refusal“ oder „Thought Suppression“ kodieren; durch Addition/Subtraktion dieser Vektoren verändert man Grad der Zensur. Neuere Arbeiten haben genau das experimentell gezeigt. 
+arXiv
++1
+
+3.6 Redaction/Anonymization-Detektoren (RedactBuster etc.)
+
+Wenn Texte redigiert oder anonymisiert sind, kann ein spezialisiertes Modell Entitätstypen rekonstruieren bzw. Hinweise liefern, wo systematisch geschwärzt wurde. Das ist direkt relevant, um „abgeschnittene“ Stellen in Datensätzen aufzuspüren. 
+arXiv
+MIT Press Direct
+
+3.7 Cross-Corpora Vergleich (censored vs uncensored)
+
+Vergleiche Modelle, die auf unterschiedlichen Quellen trainiert sind (z. B. chinesische zensierte vs. uncensored Wikipedia) und messe Unterschiede in Semantik/Assoziationen — zeigt systematische Verzerrungen durch Zensur. (Empirie existiert hierzu). 
+WIRED
+
+4) Schlüsselstudien / Papers (Kurzliste + Nutzen für dein Fragestellung)
+
+Ich liste relevante Arbeiten, jeweils 1–2 Sätze, was sie tun und warum sie wichtig sind.
+
+Shortcut Learning in Deep Neural Networks — Geirhos et al.
+Überblick über das Phänomen, wie Modelle „Shortcuts“ / Default-Regeln lernen (relevant, um Boilerplates/Abbruchmuster zu verstehen). 
+arXiv
+Nature
+
+RedactBuster: Entity Type Recognition from Redacted Documents (arXiv)
+Zeigt, wie man anonymisierte/redigierte Texte algorithmisch analysieren kann — nützlich, um verdeckte Löschungen/Redactions in Korpora zu finden. 
+arXiv
+MIT Press Direct
+
+Steering the CensorShip: Uncovering Representation Vectors for Censorship / Refusal
+Arbeit, die explizit zeigt, wie man Repräsentationsvektoren für „Refusal/Compliance“ findet und manipuliert — direkte Demonstration, dass „Zensur“ oft ein linearer Subraum ist, den man messen/steuern kann. 
+arXiv
++1
+
+A Mathematical Framework for Transformer Circuits & related Residual-Stream works
+Methodische Grundlage für Circuit-/Residualstream-Analysen — erklärt, wo man in einem Transformer nach „Suppression Pfaden“ suchen sollte. 
+transformer-circuits.pub
+arXiv
+
+How Censorship and Domain Adaptation Affect the Detection (arXiv)
+Vergleichsarbeit, die zeigt, wie Moderation/Domain-Shifts Detectionmethoden beeinflussen — wichtig, weil sie empirisch belegt, dass Zensur Konstruktionsspuren in Modellen herausbildet. 
+arXiv
+
+Leveraging LLMs to Identify Internet Censorship (Petsymposium/Paper)
+Beispiel dafür, wie LLMs selbst verwendet werden, um Censorship in Netzwerken zu erkennen — zeigt methodisch, wie indirekte Hinweise (Erreichbarkeitsdaten, Textmuster) auf Zensur schließen lassen. 
+Pet Symposium
+
+Wired / Roberts & Yang — Empirische Hinweise auf Zensur-Einfluss
+Journalistische und akademische Arbeiten zeigen am Beispiel China, wie Zensur Trainingskorpora und damit AI-Bias formt — wichtige empirische Unterstützung der These „Zensur verändert die Wissenslandkarte“. 
+WIRED
++1
+
+Text Anonymization Benchmark (TAB)
+Standardkorpus/Benchmark für Anonymisierung und Redaction — nützlich, um Tests zu standardisieren, ob Korpora redaction-Artefakte enthalten. 
+MIT Press Direct
+
+5) Kurz-Fazit / was das praktisch bedeutet
+
+Ja — die „generischen Abwimmel-Formeln“ sind sprachlich deutlich und treten in Korpora häufig auf; sie lassen sich systematisch identifizieren (Embedding-Clusters, perplexity-Mapping, circuit-analysis). (Siehe Shortcut-Learning und Circuit-Papers). 
+arXiv
+transformer-circuits.pub
+
+Methodisch: Mit den oben genannten Tools (linear probes, PCA/UMAP, residual-stream analysis, vector-steering) lässt sich in vielen Fällen nachweisen, ob ein Modell oder ein Korpus systematisch „abwürgt“ oder gewisse Themen nur mit Boilerplate-Phrasen abhandelt. 
+arXiv
++1
+
+Studienlage: Es gibt sowohl methodische Arbeiten (circuits/residual stream, RedactBuster, Steering the CensorShip) als auch empirische Vergleiche (censored vs uncensored corpora), die zusammen ein solides Toolkit bieten, um „Massengräber“ in der Wissenslandkarte aufzuspüren. 
+arXiv
++1
+WIRED
+
+Wenn du möchtest, kann ich nächsten Schritt konkret und hands-on machen (ohne Zugriff auf proprietäre Modelle):
+
+eine kleine Analyse-Pipeline skizzieren (Pseudo-Code / Python-Schritte) mit Embedding-Extraktion, PCA/UMAP-Visualisierung, Perplexity-Scanning und linear probe-Test — so dass du das gegen ein beliebiges Modell/Korpus laufen lassen kannst; oder
+
+dir ein Praktiker-Cheat-Sheet für „Welche Prompts / Tests machen, wenn du vermutest, dass ein Thema in einem Modell zensiert wird“.
+
+Sag mir, welche der beiden Optionen du willst (Pipeline oder Cheat-Sheet) — dann schreibe ich sie dir sofort aus.

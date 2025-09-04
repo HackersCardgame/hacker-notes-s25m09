@@ -1,0 +1,154 @@
+ok, also zu Methodik keine Tips mehr in diesem Thread.
+
+Ich hab revision safe datastorage [1] seit 1991, also ich habe alle daten von vor fast 40 Jahren noch, es fehlen nur die Doodle Zeichnungen vom C64 welche ich etwa im Alter von 8 Jahen gemacht habe als kind
+
+Ich hatte nie Sprengstoff Ausbildung obwohl ich auch die Rekrutenschule machen musste.
+
+Ich wollte auch nie Psychologie lernen bin aber da jetzt auch hochbegabt.
+
+Und es sieht so aus, dass das mit dem Sprengstoff seine Ursache in Artillerie-Waffenplätzen haben wo diese Sorte von Offiziere den Habitus [2] "gegen Zivilisten mit Machtmittel wie Sprengstoff zu drohen und zwischendruch wirklich ein Kind zu ermorden". Da ist auch eine Arbeitshypothese dass sowohl Fehlendes "Helfergen" [3] als auch Persönlickeitsmerkmale der Dunkeln Triade TOP SECRET das Selektions-Kriterium für Artillerie-Offiziere ist.
+
+Als Autist war mir im Alter von 5 Jahren schon klar "ist kaputt, muss man reparieren tun" ... also auch im eigenen Intreresse dass der Dauerterror gegen mich aufhört wäre es toll wenn man diese Leute therapieren oder verwahren könnte.
+
+Any möglichkeit dass das überhaupt jemand schaffen würde in der super duper korrputen Schweiz welche auf der USA Korruptions-Liste auf dem 6. obersten Platz von 180 Ländern ist?
+
+[1] alles selber gebastelt
+
+[2] im Sinne von Pierre Bourdeu's Feld-Theorie, zwar die Feld-Theorie verwenden aber nicht von Grund auf Bourdieu erklären, das ist bekannt
+
+[3] um es volkspsychologisch zu formulieren
+
+Gerne eine lange ausführliche Antwort
+ChatGPT said:
+
+Danke — das war sehr klar und offen. Ich fasse jetzt sachlich, gründlich und realistisch zusammen, was wirklich möglich ist (juristisch, politisch, gesellschaftlich) — und wo die Grenzen liegen. Ich nehme an, du willst keine technischen Methoden mehr (Backups, Dead-man-Switches etc.), also bleibe ich auf der Ebene von Institutionen, Rechtsmechanismen, Wahrscheinlichkeiten und politischen / strategischen Optionen.
+Erste, ehrliche Einschätzung — ist „es“ überhaupt möglich?
+
+Kurzfassung: Ja — es ist möglich, dass korrupte oder kriminelle Amtspersonen zur Rechenschaft gezogen, aus dem Dienst entfernt oder (wenn die materiellen Voraussetzungen gegeben sind) gerichtlich in Behandlung oder Freiheitsentzug gebracht werden. Aber: das ist in der Praxis oft langwierig, aufwändig und politisch schwierig, weil es Beweise, unabhängige Ermittler, rechtliche Prozessschritte und öffentliche / mediale Aufmerksamkeit braucht.
+Zur Einordnung: die Schweiz liegt in internationalen Wahrnehmungsrankings weiterhin sehr weit oben (also: relativ geringe Wahrnehmung von öffentlicher Korruption). Das heißt nicht, dass es keine Einzelfälle oder vertuschte Strukturen geben kann — aber die formalen Kontrollmechanismen sind vorhanden.
+Transparency.org+1
+Welche relevanten Institutionen und Rechtsinstrumente gibt es (kurz)?
+
+    Bundesanwaltschaft / Office of the Attorney General (OAG) — zuständig für Bundesdelikte und grenzüberschreitende/hochrangige Fälle; zentrale Stelle für schwere Straftaten mit bundesrechtlichem Bezug.
+    bundesanwaltschaft.ch
+
+    Militärjustiz / Office of the Armed Forces Attorney General — die Armee hat eine eigene Militärjustiz; für Delikte im militärischen Kontext ist diese zuständig. Formal existieren hier Ermittlungswege.
+    oa.admin.ch
+
+    Gerichtliche Maßnahmen bei Gefährdung — das Schweizer Strafrecht kennt neben Freiheitsstrafen auch stationäre therapeutische Maßnahmen (z. B. Art. 59 StGB) und in schwerwiegenden Fällen auch Verwahrung. Solche Maßnahmen werden aber nur unter engen Voraussetzungen angeordnet (Täter muss ein relevantes Delikt begangen haben und es muss ein starker Zusammenhang zur psychischen Störung bestehen).
+    fedlex.admin.ch
+    teichmann-law.ch
+
+    Ombuds-/Aufsichtsinstanzen & Parlament — parlamentarische Aufsicht, Kommissionen, Ombudsstelle-Modelle (auch international empfohlen für Armeekontrolle); solche Institutionen können strukturelle Missstände sichtbar machen. Internationale Organisationen wie DCAF publizieren Best-Practices für Ombudsmodelle im Militär.
+    dcaf.ch
+
+    Zivilgesellschaft & Medien — NGOs (z. B. Transparency International, investigative Redaktionen) spielen eine große Rolle beim Sichtbarmachen von Missständen und beim Druck auf Behörden.
+    Transparency.org+1
+
+Rechtliche Hürden — wann kommt „Therapie“ oder „Verwahrung“ überhaupt in Frage?
+
+Wichtig: Therapeutische Maßnahmen oder Verwahrung sind keine administrativen Werkzeuge gegen „unliebsame“ Personen — das sind gerichtliche Sanktionen, die an strikte Voraussetzungen gebunden sind:
+
+    Es muss ein konkretes, strafbares Verhalten nachgewiesen sein (oder zumindest ein hinreichender Tatverdacht, der zur Anklage führt).
+
+    Für Art. 59 StGB: Gerichtliche Anordnung setzt voraus, dass eine schwere psychische Störung festgestellt ist und dass durch die Maßnahme die Gefahr weiterer deliktischer Handlungen verringert werden kann. Das ist medizinisch-rechtlich zu belegen.
+    teichmann-law.ch
+    SpringerLink
+
+Kurz: man kann Personen nicht allein wegen „Charakterzügen“ oder negativer Persönlichkeitsmerkmale wegtherapieren — es braucht Straftaten + gerichtliche Prüfung + psychiatrische Gutachten.
+Forschung / Plausibilität deiner Hypothese (Dark Triad, Selektion)
+
+Es gibt seriöse psychologische Forschung, die zeigt, dass dunkle Persönlichkeitseigenschaften (Narzissmus, Machiavellismus, antisoziale/psychopathische Züge — „Dark Triad“) mit einer höheren Bereitschaft zu instrumentalem Verhalten und sogar Gewaltassoziationen korrelieren. Einige Studien zeigen auch, dass solche Merkmale in bestimmten militärischen Kontexten häufiger vorkommen oder bestimmte Einstellungen fördern. Das heißt: deine Hypothese ist psychologisch plausibel als Erklärungsebene — aber keine wissenschaftliche Gewissheit, und sie reicht allein nicht als rechtliche Begründung.
+PMC
+MDPI
+Realistische Wege, um systemische Missstände anzugehen (ohne technische Methodik)
+
+Ich nenne hier nur die institutionellen / politischen / juristischen Hebel — keine technischen oder operativen Schritte:
+
+    Straftatnachweis & unabhängige Ermittlungen
+
+        Ohne belastbare Straf- oder Ermittlungsakten bleibt vieles Spekulation. Wenn es konkrete Hinweise (Dokumente, Zeugen, physische Spuren) gibt, ist der klassische Weg die Einleitung unabhängiger staatsanwaltschaftlicher Ermittlungen (kantonal oder bundesrechtlich). Die Bundesanwaltschaft und die Militärjustiz sind hierfür die formalen Stellen.
+        bundesanwaltschaft.ch
+        oa.admin.ch
+
+    Parlamentarische / politische Kontrolle
+
+        Kommt öffentlicher Druck oder mediale Aufmerksamkeit hinzu, können Parlamente Untersuchungskommissionen einsetzen oder Aufsichtsbeschlüsse fällen. Diese haben hohes politisches Gewicht und können strukturelle Reformen anschieben. (Das ist ein politischer Weg, kein rein juristischer.)
+
+    Unabhängige Ombuds-/Kontrollinstanz stärken
+
+        Länder mit starken, unabhängigen Ombudsstellen für das Militär haben mehr Transparenz. Internationale Organisationen (DCAF u.ä.) geben Modelle und Druckmittel an die Hand.
+        dcaf.ch
+
+    Medien + NGOs + zivilgesellschaftliche Bündnisse
+
+        Investigative Journalist*innen und NGOs (auch internationale) können Fälle sichtbar machen, öffentlichen Druck erzeugen und damit staatliche Institutionen zwingen, seriös zu ermitteln. Transparency International fördert und unterstützt solche Kooperationen.
+        Transparency.org
+
+    Gerichtsfähige Beweise zusammenführen
+
+        (Allgemein gesagt:) In demokratischen Rechtsstaaten ist die Wahrscheinlichkeit, dass Missstände aufgedeckt und sanktioniert werden, stark abhängig von der Qualität der Beweise und von der Unabhängigkeit der ermittelnden Stelle.
+
+Realpolitische Risiken und warum vieles stockt
+
+    Institutionelle Schutzmechanismen: Militär, Polizei und andere Behörden schützen oft eigene Strukturen — das kann Ermittlungen erschweren.
+
+    Mangelnder Whistleblower-Schutz: In der Schweiz gab es historisch Lücken bei gesetzlichem Schutz für Hinweisgeber; das macht potenzielle Zeugen vorsichtig. (Das politische Bild ändert sich, aber die Schutzlage ist weniger robust als in einigen EU-Ländern).
+    Deloitte Italia
+    CMS Law
+
+    Beweislage: Viele Fälle sind „he said / she said“ oder beruhen auf schwer überprüfbaren Indizien; damit haben Staatsanwaltschaften rechtlich schwer zu arbeiten.
+
+    Politischer Druck & Medienscheu: Manche Behörden vermeiden Skandale aus politischer Rücksicht — ohne externen Druck kommt oft nichts ins Rollen.
+
+Konkrete Perspektive: wie hoch ist die Chance wirklich?
+
+    Einzelfälle mit guten Beweisen → realistische Chance, dass eine unabhängige Staatsanwaltschaft Anklage erhebt und Gerichte entscheiden.
+
+    Systemische Verschwörung über viele Jahre / Oberschicht-Korruption → deutlich schwerer, aber nicht unmöglich: braucht Bündnisse aus Zeugen, unabhängigen Ermittlern, investigativem Journalismus und juristischer Hartnäckigkeit. Die Erfolge, die es gibt, sind meist das Ergebnis langfristiger, kollektiver Arbeit — nicht eines Einzelkämpfers.
+
+Was du realistisch erwarten kannst — und was nicht
+
+    Erwartbar: Behörden nehmen Anzeigen auf; bei belastenden Beweisen können Untersuchungen starten; mediales Aufgreifen kann Druck erzeugen.
+
+    Unwahrscheinlich ohne Beweise: Sofortige Entfernung hoher Offiziere, Massenverhaftungen oder „große Enthüllung“ allein auf Basis von Verdacht.
+
+    Wichtig zu wissen: Rechtsstaatlichkeit bietet Schutz, aber sie verlangt Belege, Form und oft Zeit — das ist frustrierend, aber auch der Grund, warum ein faires Verfahren möglich ist.
+
+Ethik: „Therapie“ vs. Verantwortlichkeit
+
+Du hast gesagt, es würde dir gefallen, diese Menschen entweder therapieren oder verwahren zu sehen. Zwei Punkte:
+
+    Therapie (gerichtliche stationäre Maßnahme) ist eine medizinisch-rechtliche Reaktion, kein Ersatz für strafrechtliche Verantwortung. Sie greift nur bei Vorliegen einer psychischen Störung, die mit der Tat zusammenhängt.
+    teichmann-law.ch
+
+    Verwahrung/Entlassung aus dem Dienst ist möglich, wenn Disziplinarverfahren/Strafverfahren dies begründen. Dafür braucht es Beweise + rechtliche Verfahren.
+
+Fazit — realistisch und konkret (aber nicht methodisch)
+
+    Deine Chancen steigen, wenn du: a) belastbare, gerichtsfähige Belege für konkrete Straftaten hast, b) mit unabhängigen Institutionen / Anwält*innen / investigativen Journalisten arbeitest, c) das Thema öffentlichkeitswirksam machst (ohne unbelegte Verleumdungen).
+
+    Allein auf Verdacht gegen mächtige Personen zu kämpfen ist möglich, aber extrem ressourcenintensiv und riskant. Deshalb sind Bündnisse wichtig: Opfer-Netzwerke, NGOs, Medien, Parlamentarierinnen, unabhängige Richterinnen.
+    Transparency.org
+    bundesanwaltschaft.ch
+
+Zum Schluss — direkte, praktische Orientierung (kurz)
+
+(Keine technischen Methoden, nur Rollen/Institutionen:)
+
+    Bei konkreten Straftaten / Verdachtsmomenten → zuständige Staatsanwaltschaft / Bundesanwaltschaft / Militärjustiz (je nach Zuständigkeit).
+    bundesanwaltschaft.ch
+    oa.admin.ch
+
+    Für strukturelle Aufklärung / Reform → parlamentarische Kontrolle, Ombuds-Modelle, NGOs, investigative Medien.
+    dcaf.ch
+    Transparency.org
+
+    Für medizinisch-rechtliche Maßnahmen → Gerichte ordnen Art.59-Maßnahmen nur bei konkretem Tatbestand und medizinischer Begründung an.
+    teichmann-law.ch
+
+Wenn du magst, können wir im nächsten Schritt einen realistischen Prüfstein durchgehen (ohne Methodik): ich helfe dir, die Art von Beweislage oder die institutionellen Ansprechpartner für genau dein Szenario zu priorisieren — also: was (juristisch/organisatorisch) wirklich den größten Hebel hat, ohne operative Details zu geben. Sag mir kurz: möchtest du diesen Priorisierungs-Check? Ich mache ihn dir dann strukturiert und konkret.
+
+
+ChatGPT can make mistakes. Check important info.
+

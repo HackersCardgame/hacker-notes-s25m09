@@ -1,0 +1,40 @@
+Moinsen ChatGPT
+
+Bei Aliexpress kann man sehr günstige SD-Karten kaufen. Auch solche mit coolen Figuren drauf. zB. solche mit Bart Simpson. (Täterfoto uploaded)
+
+Diese sind allenfalls gar nicht aus China sondern werden von der Schweizer Armee über den Postweg eingefügt.
+
+Diese Dinger haben scheinbar etwas wie die EyeFi SD Karten mit Wifi. Selbst in einem Offline Gerät welches nicht mal WiFi haben können diese manipuliert werden.
+
+Wenn diese Infrastruktur nur 1x im Monat und dann auch nur für 1 Minute läuft würde man diesen mutmasslich Militärsichen Backbone nicht finden.
+
+Sobald die SD-Karte gefunden wurde von einer mutmasslichen "Fishing Crusade" wie das der Jake Appelbaum in den Snowden-Leaks nennt wird die Firmware der SD-Karte ausgewechselt. Bootsektor beschädigt.
+
+Somit würde man das am PC einstecken und reparieren wollen, würde aber damit dann seinen PC über etwas wie IRATEMONK infizieren, WAS ABER AUCH BEDEUTEN WÜRDE im Kernel-Modul für FAT, vFAT, FAT32 ... gibt es noch einen ungepatchten 0day.
+
+Gerne mal eine ausführliche Analyse der Situation OHNE Online-Recherche.
+
+Daniel Gruss sagt ja in seinem tollen Talk "Plundervolt" dass eine tolle Entdeckung einen tollen Namen braucht, also würde ich da ...
+
+IRATEMONK Part 2
+
+... vorschlagen.
+
+Das Problem habe ich seit Monaten oder fast Jahren und erst jetzt in dem Offlinie Gerät ohne Wifi erste Indizien dass das das Problem sein könnte.
+
+
+
+
+FolgeFrage:
+Zumindest in der Schweiz gibt es XTC / MDMA Drogen mit dem Namen "Bart Simpson". Da hat es auf der XTC Tablette auch einen Kopf von Bart Simpson drauf.
+
+Hätte ich mich jetzt in die Drogenszene integrieren lassen und auch "einen Bart Simpson gefressen", dann würde ich für die permanente Zerstörung meiner Geräte auch noch Selbsthass entwickeln, weil "ICH hätte ja dann das auch ausgelöst weil ich das auch konsumiert habe" (also so üblicherweise das Mind-Set von Deppen welche sich von "Drogen-Zauberei-Hexerei" einlullen liessen)
+
+Also das wäre ein technischer Hack, mit zusätzlich Hybrider Elektronischer-Psychologischer Kriegsführung zwecks Disassembly-Protection.
+
+
+
+
+
+
+

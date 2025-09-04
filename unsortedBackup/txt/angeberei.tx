@@ -1,0 +1,32 @@
+Heute mal wieder RICHTIGER NERD-KRAM ...
+
+Man(n) soll ja nicht Secruity-By-Obscurity [1] ...
+
+... das gilt zwar primär für Cryptographische Algorithmen, aber ich mache das auch mit anderen Dingen.
+
+Apropos "Vorsätzlich verursachte Wasserschäden ist der Klassiker von Blackhats um sich Zugang zu einem Serverraum zu verschaffen" ... (Foto 1)
+
+* Ich hab jetzt ein RAID6 [2]
+* Eine Festplatte kann man KOMFORTABEL mitnehmen oder verstecken
+* das RAID ist in diesen Zeiten READ ONLY gemountet
+* das RAID ist NICHT VERSCHLÜSSELT
+   -> weil falls die "netten" Herren mich abmurksen wollen oder ich nur einen Anschlag Schlaganfall habe wie FEFE soll das ja lesbar sein
+* und ja Ihr TROTTEL könntet sowieso meine Wohnung aufbrechen und an den Daten herumfummeln, ABER ohne die 6. Platte wird es einen Rebuild geben und ich merkte das dann
+
+
+[1] das ist das Fachwort für
+"hihihi ich sage dir nicht wie das funkioniert und somit ist es > > SICHER < <"
+SICHER mit Unterstrichen, Grossbuchstaben-Suppe, Pfeilen bedeutet ja immer dass es die > WAHRHEIT < ist ... 
+... so wie auch das Produkt SafeCom was das FUB verwendet > SICHER < ist wenn man den Produkte-Namen im Verhörraum befragt
+
+[2] RAID6 hat zwei Redundanz-Platten, also selbst wenn 2 Platten kaputt geht sind noch alle Daten
+
+Und ja STATTGEGEBEN das ist auch ein bisschen Angeberei von mir, aber Jungs missen zwischendurch angeben weil sonst haben die bsychische Brobleme und weil die +/- gleichaltrigen Mädchen so viel hübscher sind und meist auch ohne behaarten ekligen Bierbauch.
+
+Für Nerds
+* das geht mit alten Platten weil doppelte Reserve
+* das geht auch mit USB Sticks
+* Bonus-Aufgabe: das geht komplett OHNE permanenten REBUILD des RAIDs 
+* MANSPLAIN: Desaster Recovery immer durchspielen
+
+

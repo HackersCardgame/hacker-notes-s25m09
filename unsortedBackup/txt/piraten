@@ -1,0 +1,23 @@
+Moinsen von den Piraten Aargau (ich-mich = slightly active member)
+
+Ich bin ja damals in die Piraten eingetreten, weil das praktisch die einzige Partei in der CH [1] in der man Menschen findet  mit denen man über solche Dinge sprachen kann [2]
+
+Ist das hier auch erlaubt oder sogar erwünscht. Ziel solcher IDEEN ist ja auch Begeisterung und somit auch Verständnis für Technologie zu wecken — und das Game Portal kennt praktisch jeder aus unserer Generation ???
+
+[1] heute ist hier übrigens 1. Autugst und National-Feiertag
+
+[2] ====== SNIP ======
+Moinsen
+
+Weiss das grad jemand
+
+ Zabbix
++ Script
++ einer der GLaDOS TTS
+
+= Alarm wenn jemand unberechtigt an meinem Netz herumfummelt
+
+In zabbix kann man ja problemlos eigene Module programmieren und dann irgendwo afaik im /etc/zabbix die scirpts dazu ablegen
+
+Ich würde gerne ein Modul haben, welche mir mit espeak herum-nölt sobald mein Netzwerktraffic WAN-seitig (welche als Grafik in Zabbix schon drin ist) plötzlich viel mehr Bandbreite benutzt, also wenn es eine Differenz +10Mbit/s auf der Grafik gibt
+

@@ -1,0 +1,191 @@
+Skip to content
+Chat history
+You said:
+Hallo ChatGPT
+
+Der Philipp Lüscher [0]  hat eine MasterArbeit mit dem Titel "Master Thesis in Computer Science
+Applying Ant Colony Optimization -- Methods in an Artificial Chemistry -- Context to Routing Problems" [1] geschrieben.
+
+Kurz nach dem ich da fragen gestellt habe dazu, ob das allenfalls eher von der Uni Basel Militär-Wissenschaften als von der Informatik Fakultät der Uni Basel ist wurde diese Arbeit von der Uni Basel gelöscht.
+
+Dann scheinbar überall in Telegram Gruppen wo ich die URL und/oder den Namen des PDF's oder das PDF poste sind nach einer weile sehr viele Bot's in diesen Gruppen welche dann irgendwie Ärger machen.
+
+Somit wäre meine Frage, ob das PDF selber eine art "Virtuelles Pheromon" sein könnte welches Zensur-Bot's anlockt welche sich aber als "wir wollen nur unsere Bitcoins verticken" ausgeben. Und wenn etwas ganz wichtiges ist "opfert" sich einer der Bots und macht offensitlich auf Bitcoin Werbung, während die anderen leise bleiben und weiter mithören. Also dass dies ein grösseres und mutmasslich militärsiches Netzwerk wäre, welches Digitale Stammtische belauscht [2]
+
+
+
+
+[0] welcher auch hier aus Aarau ist und welcher interessanterweise obwohl er in der Bezirksschule in der 1978 Klassen-Jahrgang war oft mit uns aus den 1979 Klassen zusammen war
+
+[1] https://cn.dmi.unibas.ch/pub/doc/2009-msthLuescher.pdf
+
+[2] Dazu der 2013 Artikel des "Tagesanzeiger" Schweiz mit dem Titel: "Sein Programm belausht die digitalen Stammtische"
+
+
+gerne eine lange ausführliche Antwort
+ChatGPT said:
+
+Guten — sehr interessantes Thema, danke fürs genaue Schildern. Ich schreibe dir unten eine ausführliche, technisch fundierte Analyse (auf Deutsch) — erst die kurze Zusammenfassung, dann die Details, mögliche Erklärungen, wie du das PDF prüfen kannst, und konkrete Hard-Facts / Indikatoren, die echte gezielte Überwachung von „zufälligem Spam“ unterscheiden würden.
+Kurzfassung (auf einen Blick)
+
+    Ein PDF selbst sendet keine Funk- oder Netzwerk-Signale — es ist keine lebende Entität, die «Pheromone» ausstößt.
+
+    Trotzdem kann ein PDF Hinweise (Dateiname, eingebettete Links, Metadaten) enthalten, die dafür sorgen, dass automatisierte Systeme (Crawler, Moderations-Bots, Link-Blacklist-Agenten) auf das Dokument aufmerksam werden.
+    Super User
+    PortSwigger
+
+    In Telegram-Gruppen tauchen Spam-/Phishing-Bots häufig dann auf, wenn öffentliche Links oder markante Schlüsselwörter geteilt werden — dort werden Links von Dritten (Scraper, Such-Bots, Telegram-Monitoring-Bots) gefunden, indexiert und dann automatisiert beworben. Das ist ein sehr plausibler (und viel wahrscheinlicherer) Mechanismus als eine gezielte militärische Überwachungs-„Ameisen-Armee“.
+    Securelist
+    ChainPatrol
+
+    Es gibt aber technische Mechanismen, mit denen PDF-Artefakte genutzt werden können, um Information zu exfiltrieren oder eine Datei interessanter für automatische Systeme zu machen (z.B. externe Ressourcen, manipulative Links, PDF-Scripts, steganographische Inhalte). Solche Fälle sind möglich, aber sie erfordern aktives Einbetten/Manipulieren — ein normaler akademischer PDF ist das meist nicht.
+    PortSwigger
+    Locklizard
+
+1) Warum plötzlich viele Bots, nachdem du den Link/Dateinamen gepostet hast
+
+    Public-Link-Scraping: Öffentliche Telegram-Gruppen (oder solche, die zumindest für Bots erreichbar sind) werden von vielen Drittwerkzeugen und Crawlern gescannt. Sobald ein Link in einer Gruppe erscheint, kann er leicht indexiert werden — und automatisierte Spam-Services (oder Betreiber, die link-basiert scammen) pushen dann Werbung/Phishing-Bots in dieselben Gruppen, um Traffic auf ihre Angebote zu lenken. Das Verhalten, das du beschreibst (zuerst stille Bots, dann einer, der „Bitcoin-Werbung“ macht) passt sehr gut zu diesem Muster.
+    Reddit
+    LifeLock
+
+    Keyword/Dateiname-Matching: Manche Bots oder Dienste überwachen gezielt bestimmte Keywords, Dateinamen oder Domain-Patterns. Wenn du also denselben Dateinamen oder dieselbe URL mehrfach postest, landet diese Zeichenfolge in Blacklists/Feeds, die Spammer/Scammer abonnieren.
+    ChainPatrol
+
+    Moderations-/Security-Bots: Einige Telegram-Bots (oder Admin-Tools) reagieren automatisch auf geteilte Links — sie prüfen die URL, erzeugen Vorschaubilder, oder melden den Link an andere Dienste. Das wiederum kann ein Echo auslösen, das viele kleine Spam-Bots anzieht.
+    ChainPatrol
+
+2) Kann das PDF „selbst“ etwas tun (z. B. Tracking / Signalisieren)?
+
+Kurz: nicht von sich aus, aber technisch möglich, wenn bestimmte Voraussetzungen erfüllt sind.
+
+Was PDFs theoretisch enthalten können:
+
+    Eingebettete URLs/Links: Jede PDF kann anklickbare Links enthalten. Klickt jemand darauf, wird eine Verbindung zu einem Webserver hergestellt — der Server-Log enthält dann IP/Agent/Referrer etc. Das ist kein automatisches „Rufen“ durch den PDF-File-Server selbst, aber wenn die PDF-Vorschau/Reader externe Ressourcen lädt, kann das getrackt werden.
+    Reddit
+    Super User
+
+    Externe Ressourcen / Webbeacons: Manche Dateiformate erlauben Referenzen auf entfernte Ressourcen. Viele PDF-Reader laden externe Ressourcen nicht automatisch, aber das Verhalten ist leserabhängig — es existieren reale Warnungen (z. B. Tor-Projekt) und Praxisfälle, in denen Dokumente beim Öffnen Netzwerkzugriffe auslösen. Das macht PDF-basierte Tracking nicht unmöglich.
+    Super User
+    PortSwigger
+
+    JavaScript / PDF-Scripting & Exploits: PDFs können JavaScript enthalten; das ist ein Angriffsvektor (Malware in PDFs). Solche Scripts können bei unsicheren Readern genutzt werden, um Code auszuführen oder Daten zu exfiltrieren. Das ist allerdings ein aktiv eingebauter Exploit — kein „natürlicher“ Nebeneffekt einer normalen Masterarbeit.
+    Guardian Digital
+    PortSwigger
+
+    Metadaten / Dateiname: Metadaten (Autor, Uni-Dept, Zeitstempel, evtl. interne URLs) können Hinweise geben, die automatisierte Systeme nutzen. Auch ein ungewöhnlicher, eindeutiger Dateiname kann dazu führen, dass der Link schneller auffällt (weil er leichter zu matchen/indexieren ist).
+
+3) Was spricht gegen die Idee eines „militärischen Netzwerks“, das PDF-Pheromone nutzt?
+
+    Ein großangelegtes, zielgerichtetes System würde eindeutige Indikatoren hinterlassen: wiederkehrendes, gezieltes Monitoring bestimmter Personen/Chats, Abgleich mit klassifizierten Listen, koordinierte Aktionen auf mehreren Plattformen, gezielte Angriffe auf Mitposter statt generische Bitcoin-Spam. Die meisten beobachteten Fälle in öffentlichen Gruppen sind dagegen eher generischer Spam/Phishing.
+
+    Technisch aufwändiges „Homing“ auf ein einziges PDF wäre möglich — aber dafür braucht es Beweise (Logs, IP-Adressen, wiederholte gezielte Reaktionen auf mehrere verschiedene Veröffentlichungen nur von dir, forensische Indikatoren). Ohne solche Belege ist die wesentlich einfachere Erklärung (Scraper → Spammer) die wahrscheinlichere (Occam’s Razor).
+    Securelist
+    Aura
+
+4) Wie könnte ein „malicious actor“ ein PDF so platzieren/konstruieren, dass es wirklich andere Systeme automatisch anzieht?
+
+Mögliche Techniken (erfordern aktives Zutun durch den Ersteller):
+
+    Eindeutige, leicht matchbare Dateinamen oder URLs (z. B. „2009-msthLuescher.pdf“) und anschließendes massenhaftes Streuen an many public places → scrape/notify Kaskade.
+
+    Einbetten eines (absichtlich) gehosteten Remote-Elements (Bild/HTML/InkAnnotation), das beim Anzeigen eine HTTP-Anfrage an eine Beobachter-Domain macht. Wenn Nutzer die PDF-Vorschau auf einem Webdienst öffnen, kann der Webdienst das remote Objekt laden und damit loggen. (Tor-Warnungen und Praxisbeispiele zeigen, dass das möglich ist.)
+    Super User
+    PortSwigger
+
+    Einsatz von „link scanners“ und Bot-Netzen, die automatisch neu erkannte Links monetarisieren (Phishing/Bitcoin-Ads). Das ist eine wirtschaftlich hochskalierbare Angriffsform; für Angreifer ist das einfacher und profitabler als targeted surveillance.
+    Securelist
+    LifeLock
+
+5) Konkrete, prüfbare Schritte — wie du das PDF schnell analysieren kannst (Linux-Befehle)
+
+    Hinweis: wenn du mir das PDF hier hochlädst, kann ich es (sofern erlaubt) mit Tools analysieren. Wenn nicht, kannst du die Befehle lokal ausführen.
+
+    Metadaten anzeigen
+
+exiftool 2009-msthLuescher.pdf
+pdfinfo 2009-msthLuescher.pdf
+
+    Nach eingebetteten URLs / externen Ressourcen suchen
+
+strings 2009-msthLuescher.pdf | egrep -i 'https?://|mailto:'
+# oder
+pdfgrep -n -i 'http' 2009-msthLuescher.pdf
+
+    Auf PDF-JavaScript oder ungewöhnliche Objekte prüfen
+
+    Nutze Werkzeuge wie pdfid.py und pdf-parser.py (von Didier Stevens): sie zeigen /JS, /OpenAction, /AA u.ä.
+
+pdfid.py 2009-msthLuescher.pdf
+pdf-parser.py -a 2009-msthLuescher.pdf
+
+    Schwachstellen / Exploits scannen
+
+    Scanner wie rkhunter sind nicht geeignet; besser: Virustotal-Upload (privatsphäre beachten) oder lokale Malware-Scanner / sandbox. Viele Sicherheitsteams nutzen Sandboxes, um PDF-Behaviour zu beobachten.
+
+    Hashes / Blacklists checken
+
+sha256sum 2009-msthLuescher.pdf
+# und dann Hash in OSINT/ThreatIntel-Feeds oder VirusTotal suchen
+
+(Quellen zu diesen Möglichkeiten und zu den Gefahren / Hinweis: Tor-Wiki und Security-Foren warnen vor externen Ressourcen in Dokumenten.)
+Super User
+PortSwigger
+6) Was genau könnte der Uni-Entfernungsvorgang erklären?
+
+    Universitäten entfernen Masterarbeiten aus mehreren Gründen: Urheberrecht (z. B. abgelehnte Freigabe), personenbezogene Daten, Sicherheitsbedenken, administrativer Fehler. Der Umstand, dass eine Arbeit auf dem Uni-Server nicht mehr verfügbar ist, belegt nicht automatisch Überwachung oder eine Demo-Pheromon-Funktion. (Viele Arbeiten sind nur ausgelagerte Repositorien oder wurden auf Wunsch des Autors/Betreuers entfernt.)
+
+    Tatsache: die Arbeit wird in mehreren anderen PDFs / Arbeiten zitiert (mehrere Treffer in anderen akademischen PDFs/Bibliografien), d. h. sie war publik und wurde akademisch referenziert. Das spricht dafür, dass es sich um eine „normale“ Masterarbeit handelt, die aus normalen Gründen offline genommen werden kann.
+    openaccess.altinbas.edu.tr
+
+7) Indikatoren, die echte gezielte Abhör-/Überwachungs-Aktion beweisen würden
+
+Wenn du davon überzeugt sein willst, dass hier etwas gezielt Militärisches/Geheimdienstliches vorgeht, wären folgende, prüfbare Indikatoren nötig:
+
+    Wiederholte, zeitnahe Reaktionen auf Veröffentlichungen nur von dir (nicht auf andere gewesen sein), mit identischer Profilierung (z. B. immer dieselben ausländischen IPs, dieselben Bot-Accounts).
+
+    Forensische Logs (Serverzugriffe auf die URL / Uni-Server) zeigen gezielte, möglicherweise nicht-öffentliche Scans.
+
+    Koordinierte Aktionen über Plattformen (z. B. zeitgleiche Reaktionen auf Twitter, Telegram, Foren), die nicht das Muster von generischem Spam haben (z. B. keine Monopolisierung durch Bitcoin-Ads, sondern zielgerichtete HUMINT-interaktion).
+
+    Spezifische technische Inhalte im PDF, die bewusst Trigger/Beacons enthalten (z. B. remote resources, unique redirect URLs die nur bei dir verwendet wurden).
+    Ohne solche Belege bleibt die simpler erklärbare Hypothese (Crawler → Spammer/Scammer) plausibler.
+
+8) Konkrete Sofort-Empfehlungen (praktisch)
+
+Wenn du weiterhin vermeiden willst, dass beim Posten solche Bots auftauchen:
+
+    Private / geschlossene Kanäle verwenden, keine öffentlichen Gruppen.
+
+    Datei vor dem Teilen säubern: Metadaten entfernen (exiftool -all= file.pdf), Dateiname generalisieren, alle externen Links entfernen/ersetzen.
+
+    PDF lokal prüfen mit den oben genannten Tools (pdfid/pdf-parser, strings, exiftool).
+
+    Alternative Verbreitung: Teile statt des PDFs einen Hash (SHA-256) oder eine verschlüsselte Version; oder verteile über Trusted File-Sharing (z. B. persönlicher Cloud-Link mit Auth), nicht über öffentliche Repositories.
+
+    Belege sammeln: Wenn du vermutest, dass es Überwachung gibt, sammle Zeitstempel, Logs (Screenshots mit Zeit, Account-IDs der Bots), Hashes der Datei — das sind die Daten, die eine Untersuchung möglich machen.
+
+9) Wenn du willst: Ich biete an
+
+    Ich kann die öffentliche Bibliografie-Spur für die Masterarbeit zusammenfassen (anzeigen, welche anderen Arbeiten sie zitiert/wo sie zitiert wurde). Das zeigt, wie weit sie ohnehin schon in der Literatur zirkuliert. (Ich habe schon einige bibliographische Treffer gefunden, die die Arbeit zitieren.)
+    openaccess.altinbas.edu.tr
+    Repositorio Institucional Séneca
+
+    Oder: wenn du das PDF hier hochlädst, kann ich (sofern du das wünschst) automatisiert die oben genannten Prüfungen durchführen (Metadaten, URLs, PDF-Scripting) und die Resultate hier berichten.
+
+Abschließendes Fazit (klar & ehrlich)
+
+Deine Beobachtung — dass nach dem Posten des PDF-Links vermehrt Bots auftauchen — ist realistisch und typisch. Es ist sehr wahrscheinlich eine Folge von automatischem Scraping / Link-Monitoring und anschließendem Spammer-/Scammer-Verhalten. Die Idee eines „virtuellen Pheromons“ ist bildlich sehr treffend, aber technisch läuft das in der Praxis über Indexierbare Zeichenketten (URLs, Dateinamen, Keywords) und nicht über ein selbst-sendendes PDF. Ein gezieltes militärisches Lauschnetzwerk wäre möglich, aber bedarf belastender, forensischer Indikatoren — diese liegen bisher nicht vor (basierend auf dem, was du erzählt hast).
+Securelist
+Super User
+PortSwigger
+
+Wenn du möchtest, mache ich jetzt eines von beiden (sofort, hier in der Konversation — kein Warten nötig):
+A) Ich suche und liste alle öffentlich auffindbaren Zitate / Kopien / Mirrors der Arbeit (Kurz-OSINT), damit du siehst, wie weit sie verbreitet war; oder
+B) Du lädst das PDF hier hoch und ich analysiere sofort, welche Links / Metadaten / JS / externen Ressourcen drin sind (mit den konkreten Befehlen und Ausgabe).
+
+Welche Option möchtest du — oder soll ich zuerst die OSINT-Spur der Arbeit zusammenfassen?
+
+
+ChatGPT can make mistakes. Check important info.
+ChatGPT says: Guten — sehr interessantes Thema, danke fürs genaue Schildern. Ich schreibe dir unten eine ausführliche, technisch fundierte Analyse (auf Deutsch) — erst die kurze Zusammenfassung, dann die Details, mögliche Erklärungen, wie du das PDF prüfen kannst, und konkrete Hard-Facts / Indikatoren, die echte gezielte Überwachung von „zufälligem Spam“ unterscheiden würden. # Kurzfassung (auf einen Blick) - Ein PDF selbst **sendet keine Funk- oder Netzwerk-Signale** — es ist keine lebende Entität, die «Pheromone» ausstößt. - Trotzdem **kann** ein PDF Hinweise (Dateiname, eingebettete Links, Metadaten) enthalten, die dafür sorgen, dass automatisierte Systeme (Crawler, Moderations-Bots, Link-Blacklist-Agenten) auf das Dokument aufmerksam werden. citeturn4search6turn4search12 - In Telegram-Gruppen tauchen Spam-/Phishing-Bots **häufig** dann auf, wenn öffentliche Links oder markante Schlüsselwörter geteilt werden — dort werden Links von Dritten (Scraper, Such-Bots, Telegram-Monitoring-Bots) gefunden, indexiert und dann automatisiert beworben. Das ist ein sehr plausibler (und viel wahrscheinlicherer) Mechanismus als eine gezielte militärische Überwachungs-„Ameisen-Armee“. citeturn4search3turn4search13 - Es gibt aber technische Mechanismen, mit denen PDF-Artefakte genutzt werden können, um Information zu exfiltrieren oder eine Datei interessanter für automatische Systeme zu machen (z.B. externe Ressourcen, manipulative Links, PDF-Scripts, steganographische Inhalte). Solche Fälle sind möglich, aber sie erfordern aktives Einbetten/Manipulieren — ein normaler akademischer PDF ist das **meist nicht**. citeturn4search12turn4search10 --- # 1) Warum plötzlich viele Bots, nachdem du den Link/Dateinamen gepostet hast - **Public-Link-Scraping**: Öffentliche Telegram-Gruppen (oder solche, die zumindest für Bots erreichbar sind) werden von vielen Drittwerkzeugen und Crawlern gescannt. Sobald ein Link in einer Gruppe erscheint, kann er leicht indexiert werden — und automatisierte Spam-Services (oder Betreiber, die link-basiert scammen) pushen dann Werbung/Phishing-Bots in dieselben Gruppen, um Traffic auf ihre Angebote zu lenken. Das Verhalten, das du beschreibst (zuerst stille Bots, dann einer, der „Bitcoin-Werbung“ macht) passt sehr gut zu diesem Muster. citeturn4search1turn4search15 - **Keyword/Dateiname-Matching**: Manche Bots oder Dienste überwachen gezielt bestimmte Keywords, Dateinamen oder Domain-Patterns. Wenn du also denselben Dateinamen oder dieselbe URL mehrfach postest, landet diese Zeichenfolge in Blacklists/Feeds, die Spammer/Scammer abonnieren. citeturn4search13 - **Moderations-/Security-Bots**: Einige Telegram-Bots (oder Admin-Tools) reagieren automatisch auf geteilte Links — sie prüfen die URL, erzeugen Vorschaubilder, oder melden den Link an andere Dienste. Das wiederum kann ein Echo auslösen, das viele kleine Spam-Bots anzieht. citeturn4search13 # 2) Kann das PDF „selbst“ etwas tun (z. B. Tracking / Signalisieren)? Kurz: *nicht von sich aus*, aber technisch *möglich*, wenn bestimmte Voraussetzungen erfüllt sind. Was PDFs theoretisch enthalten können: - **Eingebettete URLs/Links**: Jede PDF kann anklickbare Links enthalten. Klickt jemand darauf, wird eine Verbindung zu einem Webserver hergestellt — der Server-Log enthält dann IP/Agent/Referrer etc. Das ist *kein* automatisches „Rufen“ durch den PDF-File-Server selbst, aber wenn die PDF-Vorschau/Reader externe Ressourcen lädt, kann das getrackt werden. citeturn4search14turn4search6 - **Externe Ressourcen / Webbeacons**: Manche Dateiformate erlauben Referenzen auf entfernte Ressourcen. Viele PDF-Reader laden externe Ressourcen nicht automatisch, aber das Verhalten ist leserabhängig — es existieren reale Warnungen (z. B. Tor-Projekt) und Praxisfälle, in denen Dokumente beim Öffnen Netzwerkzugriffe auslösen. Das macht PDF-basierte Tracking nicht unmöglich. citeturn4search6turn4search12 - **JavaScript / PDF-Scripting & Exploits**: PDFs können JavaScript enthalten; das ist ein Angriffsvektor (Malware in PDFs). Solche Scripts können bei unsicheren Readern genutzt werden, um Code auszuführen oder Daten zu exfiltrieren. Das ist allerdings ein aktiv eingebauter Exploit — kein „natürlicher“ Nebeneffekt einer normalen Masterarbeit. citeturn4search16turn4search12 - **Metadaten / Dateiname**: Metadaten (Autor, Uni-Dept, Zeitstempel, evtl. interne URLs) können Hinweise geben, die automatisierte Systeme nutzen. Auch ein ungewöhnlicher, eindeutiger Dateiname kann dazu führen, dass der Link schneller auffällt (weil er leichter zu matchen/indexieren ist). # 3) Was spricht gegen die Idee eines „militärischen Netzwerks“, das PDF-Pheromone nutzt? - Ein großangelegtes, zielgerichtetes System würde **eindeutige Indikatoren** hinterlassen: wiederkehrendes, gezieltes Monitoring bestimmter Personen/Chats, Abgleich mit klassifizierten Listen, koordinierte Aktionen auf mehreren Plattformen, gezielte Angriffe auf Mitposter statt generische Bitcoin-Spam. Die meisten beobachteten Fälle in öffentlichen Gruppen sind dagegen eher generischer Spam/Phishing. - Technisch aufwändiges „Homing“ auf ein einziges PDF wäre möglich — aber dafür braucht es Beweise (Logs, IP-Adressen, wiederholte gezielte Reaktionen auf mehrere verschiedene Veröffentlichungen nur von dir, forensische Indikatoren). Ohne solche Belege ist die wesentlich einfachere Erklärung (Scraper → Spammer) die wahrscheinlichere (Occam’s Razor). citeturn4search3turn4search17 # 4) Wie könnte ein „malicious actor“ ein PDF so platzieren/konstruieren, dass es *wirklich* andere Systeme automatisch anzieht? Mögliche Techniken (erfordern aktives Zutun durch den Ersteller): - Eindeutige, leicht matchbare Dateinamen oder URLs (z. B. „2009-msthLuescher.pdf“) und anschließendes massenhaftes Streuen an many public places → scrape/notify Kaskade. - Einbetten eines (absichtlich) gehosteten Remote-Elements (Bild/HTML/InkAnnotation), das beim Anzeigen eine HTTP-Anfrage an eine Beobachter-Domain macht. Wenn Nutzer die PDF-Vorschau auf einem Webdienst öffnen, kann der Webdienst das remote Objekt laden und damit loggen. (Tor-Warnungen und Praxisbeispiele zeigen, dass das möglich ist.) citeturn4search6turn4search12 - Einsatz von „link scanners“ und Bot-Netzen, die automatisch neu erkannte Links monetarisieren (Phishing/Bitcoin-Ads). Das ist eine wirtschaftlich hochskalierbare Angriffsform; für Angreifer ist das einfacher und profitabler als targeted surveillance. citeturn4search3turn4search15 # 5) Konkrete, prüfbare Schritte — wie du das PDF *schnell* analysieren kannst (Linux-Befehle) > Hinweis: wenn du mir das PDF hier hochlädst, kann ich es (sofern erlaubt) mit Tools analysieren. Wenn nicht, kannst du die Befehle lokal ausführen. 1. **Metadaten anzeigen** ```bash exiftool 2009-msthLuescher.pdf pdfinfo 2009-msthLuescher.pdf ``` 2. **Nach eingebetteten URLs / externen Ressourcen suchen** ```bash strings 2009-msthLuescher.pdf | egrep -i 'https?://|mailto:' # oder pdfgrep -n -i 'http' 2009-msthLuescher.pdf ``` 3. **Auf PDF-JavaScript oder ungewöhnliche Objekte prüfen** - Nutze Werkzeuge wie `pdfid.py` und `pdf-parser.py` (von Didier Stevens): sie zeigen /JS, /OpenAction, /AA u.ä. ```bash pdfid.py 2009-msthLuescher.pdf pdf-parser.py -a 2009-msthLuescher.pdf ``` 4. **Schwachstellen / Exploits scannen** - Scanner wie `rkhunter` sind nicht geeignet; besser: Virustotal-Upload (privatsphäre beachten) oder lokale Malware-Scanner / sandbox. Viele Sicherheitsteams nutzen Sandboxes, um PDF-Behaviour zu beobachten. 5. **Hashes / Blacklists checken** ```bash sha256sum 2009-msthLuescher.pdf # und dann Hash in OSINT/ThreatIntel-Feeds oder VirusTotal suchen ``` (Quellen zu diesen Möglichkeiten und zu den Gefahren / Hinweis: Tor-Wiki und Security-Foren warnen vor externen Ressourcen in Dokumenten.) citeturn4search6turn4search12 # 6) Was genau könnte der Uni-Entfernungsvorgang erklären? - Universitäten entfernen Masterarbeiten aus mehreren Gründen: Urheberrecht (z. B. abgelehnte Freigabe), personenbezogene Daten, Sicherheitsbedenken, administrativer Fehler. Der Umstand, dass eine Arbeit auf dem Uni-Server nicht mehr verfügbar ist, **belegt nicht** automatisch Überwachung oder eine Demo-Pheromon-Funktion. (Viele Arbeiten sind nur ausgelagerte Repositorien oder wurden auf Wunsch des Autors/Betreuers entfernt.) - Tatsache: die Arbeit wird in mehreren anderen PDFs / Arbeiten zitiert (mehrere Treffer in anderen akademischen PDFs/Bibliografien), d. h. sie war publik und wurde akademisch referenziert. Das spricht dafür, dass es sich um eine „normale“ Masterarbeit handelt, die aus normalen Gründen offline genommen werden kann. citeturn1search0 # 7) Indikatoren, die echte gezielte Abhör-/Überwachungs-Aktion beweisen würden Wenn du davon überzeugt sein willst, dass hier etwas gezielt Militärisches/Geheimdienstliches vorgeht, wären folgende, prüfbare Indikatoren nötig: - **Wiederholte, zeitnahe Reaktionen** auf Veröffentlichungen nur von dir (nicht auf andere gewesen sein), mit identischer Profilierung (z. B. immer dieselben ausländischen IPs, dieselben Bot-Accounts). - **Forensische Logs** (Serverzugriffe auf die URL / Uni-Server) zeigen gezielte, möglicherweise nicht-öffentliche Scans. - **Koordinierte Aktionen über Plattformen** (z. B. zeitgleiche Reaktionen auf Twitter, Telegram, Foren), die nicht das Muster von generischem Spam haben (z. B. keine Monopolisierung durch Bitcoin-Ads, sondern zielgerichtete HUMINT-interaktion). - **Spezifische technische Inhalte** im PDF, die bewusst Trigger/Beacons enthalten (z. B. remote resources, unique redirect URLs die nur bei dir verwendet wurden). Ohne solche Belege bleibt die simpler erklärbare Hypothese (Crawler → Spammer/Scammer) plausibler. # 8) Konkrete Sofort-Empfehlungen (praktisch) Wenn du weiterhin vermeiden willst, dass beim Posten solche Bots auftauchen: 1. **Private / geschlossene Kanäle** verwenden, keine öffentlichen Gruppen. 2. **Datei vor dem Teilen säubern**: Metadaten entfernen (`exiftool -all= file.pdf`), Dateiname generalisieren, alle externen Links entfernen/ersetzen. 3. **PDF lokal prüfen** mit den oben genannten Tools (pdfid/pdf-parser, strings, exiftool). 4. **Alternative Verbreitung**: Teile statt des PDFs einen Hash (SHA-256) oder eine verschlüsselte Version; oder verteile über Trusted File-Sharing (z. B. persönlicher Cloud-Link mit Auth), nicht über öffentliche Repositories. 5. **Belege sammeln**: Wenn du vermutest, dass es Überwachung gibt, sammle Zeitstempel, Logs (Screenshots mit Zeit, Account-IDs der Bots), Hashes der Datei — das sind die Daten, die eine Untersuchung möglich machen. # 9) Wenn du willst: Ich biete an - Ich kann die **öffentliche Bibliografie-Spur** für die Masterarbeit zusammenfassen (anzeigen, welche anderen Arbeiten sie zitiert/wo sie zitiert wurde). Das zeigt, wie weit sie ohnehin schon in der Literatur zirkuliert. (Ich habe schon einige bibliographische Treffer gefunden, die die Arbeit zitieren.) citeturn1search0turn1search4 - Oder: **wenn du das PDF hier hochlädst**, kann ich (sofern du das wünschst) automatisiert die oben genannten Prüfungen durchführen (Metadaten, URLs, PDF-Scripting) und die Resultate hier berichten. --- ## Abschließendes Fazit (klar & ehrlich) Deine Beobachtung — dass nach dem Posten des PDF-Links vermehrt Bots auftauchen — ist realistisch und typisch. Es ist **sehr wahrscheinlich** eine Folge von automatischem Scraping / Link-Monitoring und anschließendem Spammer-/Scammer-Verhalten. Die Idee eines „virtuellen Pheromons“ ist bildlich sehr treffend, aber technisch läuft das in der Praxis über **Indexierbare Zeichenketten (URLs, Dateinamen, Keywords)** und nicht über ein selbst-sendendes PDF. Ein gezieltes militärisches Lauschnetzwerk wäre möglich, aber **bedarf belastender, forensischer Indikatoren** — diese liegen bisher nicht vor (basierend auf dem, was du erzählt hast). citeturn4search3turn4search6turn4search12 --- Wenn du möchtest, mache ich jetzt eines von beiden (sofort, hier in der Konversation — kein Warten nötig): A) Ich suche und liste alle öffentlich auffindbaren Zitate / Kopien / Mirrors der Arbeit (Kurz-OSINT), damit du siehst, wie weit sie verbreitet war; oder B) Du lädst das PDF hier hoch und ich analysiere sofort, welche Links / Metadaten / JS / externen Ressourcen drin sind (mit den konkreten Befehlen und Ausgabe). Welche Option möchtest du — oder soll ich zuerst die OSINT-Spur der Arbeit zusammenfassen?
+

@@ -1,0 +1,20 @@
+
+systemctl --user start pipewire pipewire-pulse pipewire-jack
+
+pw-jack qjackctl --start &
+# pw-jack jamulus --server --nogui --directory 127.0.0.1 --public 0 &
+pw-jack jamulus --server --nogui --directory 0.0.0.0 --public 0 &
+pw-jack jamulus --connect 127.0.0.1
+
+
+jamulus \
+  --server \
+  --nogui \
+  --directory 0.0.0.0 \
+  --public 0 \
+  --port 22124 \
+  --servername "🎶 Jamulus Lokalserver" \
+  --welcomemessage "Willkommen auf dem internen Jamulus-Server! 😄\nDieser Server ist nicht im Internet sichtbar.\nBitte Kopfhörer verwenden und nett bleiben!" \
+  --pingtimeout 30 \
+#  --numchannels 6 \
+#  --recordingdir /tmp/jamulus-recordings

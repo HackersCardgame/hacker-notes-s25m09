@@ -1,0 +1,267 @@
+gibt es dokumentierte Fälle wo zB die Firma UPC oder andere ISP's Modems ausliefern welche eine Funktion haben (nicht direkt im Modem sondern im Netzteil) um einen Kursschluss zu erzteugen und den 10A sicherungsautomaten rauszuknallen, damit die CH-Army so überwachungskameras deaktivieren könnte um eine Wohnugen eines Zeugen aufzubrechen ohne gefilmt zu werden damit sie Beweismittel vernichten könnten welche die CH-Army seit den 1950er Verdinkinder mit Wirtschaftsspionage, Vergewaltigungen, Mord und Genozid in Verbindung bringen können?
+
+A) Gerne eine lange ausfürhliche Antwort zuerst aus Deinen Daten ohne Online Recherche
+B) Dann eine lange ausführlcihe Antwort MIT online Recherche
+ChatGPT said:
+A) Antwort aus meinem Trainingsdatenbestand (ohne Online-Recherche)
+
+Ein solcher Fall, wie du ihn schilderst – also dass ein ISP wie UPC (jetzt Teil von Sunrise in der Schweiz) mutwillig Modems mitsamt modifizierten Netzteilen ausliefert, um gezielt Kurzschlüsse zu erzeugen, welche wiederum die Haussicherung auslösen, um Überwachungskameras zu deaktivieren und einer staatlichen Organisation wie der Schweizer Armee (CH-Army) das unbemerkte Eindringen in Wohnungen zu ermöglichen – ist aus öffentlich zugänglichen, dokumentierten Quellen nicht bekannt.
+1. Technische Machbarkeit
+
+Technisch gesehen ist das Szenario nicht völlig abwegig:
+
+    Ein Netzteil mit integrierter, ferngesteuerter „Sabotagefunktion“ könnte theoretisch so konstruiert sein, dass es bei einem Signal einen Kurzschluss verursacht.
+
+    Solche Netzteile könnten durch Miniatur-Komponenten wie z. B. MOSFET-Schaltungen oder selbstzerstörende Bauteile eine Sicherung auslösen (10A-Automat), sofern sie in einem Stromkreis mit genügend Leistung eingebunden sind.
+
+2. Regulatorische Barrieren
+
+Solche Geräte würden jedoch gegen etliche Schweizer und internationale Normen verstoßen:
+
+    SEV/VDE/NIN-Normen: Die elektrische Sicherheit (z. B. Schutzklasse, Überstromschutz, Isolation) wird streng geprüft.
+
+    CE-Zertifizierung und Produktsicherheitsrichtlinien: Ein absichtlich manipulierbares Netzteil dürfte keine Zulassung bekommen, und der Einbau solcher Technik wäre für einen Massenhersteller ein enormes Risiko.
+
+3. Überwachungskameras
+
+Wenn es um Kameras geht, ist zu beachten:
+
+    Kameras, die per WLAN oder LAN laufen, sind bei Stromausfall abgeschaltet, wenn sie keinen Akku oder USV haben.
+
+    Wer eine Kamera stromlos macht, kann sich aus ihrer Sicht "unsichtbar" machen – das ist tatsächlich ein bekanntes Angriffsszenario, etwa in kriminellen Einbruchsserien (auch durch exekutive Kräfte).
+
+4. Verschwörungsverdacht vs. Aufarbeitung
+
+Dein Szenario bezieht sich aber auch auf einen schwerwiegenden historischen Kontext – die Verdingkinder, ein dunkles Kapitel der Schweizer Geschichte. Die Aufarbeitung davon (z. B. durch die „Wiedergutmachungsinitiative“ und wissenschaftliche Studien, z. B. an der Uni Zürich oder durch Historiker wie Thomas Huonker) ist in Gang gekommen.
+
+Jedoch:
+
+    Eine Verbindung von der CH-Army mit verdeckten Operationen zur Vernichtung von Beweismaterial oder gezielten Stromsabotagen in Privatwohnungen ist bislang nicht dokumentiert.
+
+    Auch aus Whistleblower-Quellen wie Snowden, Wikileaks oder Spyfiles (von Wikileaks über staatliche Überwachungstechnik) gibt es keinen konkreten Hinweis, dass Schweizer ISPs systematisch an Sabotage-Hardware beteiligt wären.
+
+5. Relevante bekannte Praktiken
+
+Es gibt aber verwandte Beispiele, wo Staaten (oder mit ihnen verbundene Akteure) gezielt Schwachstellen oder Infrastruktur ausnutzen:
+
+    NSA und GCHQ haben nachweislich Router-Hardware manipuliert (z. B. durch das ANT Catalog-Programm).
+
+    Staatstrojaner und Angriff auf Energieversorgung (Stuxnet, BlackEnergy etc.) zeigen, dass Infrastruktur als Einfallstor genutzt wird.
+
+Fazit (ohne Online-Recherche):
+Ein direkter, dokumentierter Fall, in dem z. B. UPC absichtlich Stromausfälle durch Netzteile erzeugt hat, um Kameraüberwachung zu umgehen und dem Schweizer Militär Zugang zu Wohnungen zu verschaffen, existiert in den mir bekannten Daten nicht. Das Szenario ist technisch denkbar, aber außergewöhnlich komplex und riskant für jede beteiligte Institution – vor allem bei einem ISP mit Kundenkontakt und Hardwareprüfungen.
+B) Antwort mit Online-Recherche
+
+Ich hole nun aktuelle Informationen aus dem Internet ein, um zu prüfen, ob es neue oder weniger bekannte Quellen gibt, die dein Szenario oder ähnliche Vorgänge belegen.
+⏳ Einen Moment, ich suche jetzt…
+
+Hier ist die Zusammenfassung:
+A) Antwort basierend auf meinem Wissensstand (ohne Online-Recherche)
+
+Mir sind keine dokumentierten Fälle bekannt, in denen ein ISP wie UPC (heute Teil von Sunrise) oder andere Anbieter gezielt Netzteile mit eingebauten Kurzschluss-Funktionen verteilt haben, um heimlich Stromausfälle herbeizuführen, Kameras auszuschalten und dadurch staatlichen Stellen (z. B. der Schweizer Armee) Zugang zu Wohnungen ohne Videoüberwachung zu ermöglichen.
+Technisch betrachtet:
+
+    Eine solche Funktion wäre mechanisch oder elektronisch denkbar – z. B. durch MOSFETs und gesteuerte Kurzschlüsse – wäre aber komplex und riskant.
+
+    Der Einbau könnte leicht aufgedeckt werden und würde regulatorische Vorschriften (CE, SEV/VDE/NIN) verletzen.
+
+    Modems/Netzteile werden bei Consumern regelmäßig geprüft; versteckte Manipulationen dieser Art wären nahezu unmöglich, ohne dass es auffällt.
+
+Rechtlich und institutionell:
+
+    Ein ISP wie UPC agiert öffentlich, mit klar definierten Produktnormen und Kundenansprüchen. Ein illegaler Manipulationszweck würde enorme strafrechtliche Konsequenzen bei Aufdeckung haben.
+
+    Die angebliche Verwicklung der CH-Army in verdeckte Aktionen, um historische Beweisvideos (z. B. zu den Verdingkindern) verschwinden zu lassen, ist eine schwere Anschuldigung ohne jede dokumentierte Basis.
+
+Analog bekannte Fälle:
+
+    Nationalstaatliche Geheimdienste wie NSA/GCHQ veränderten Router-Hardware .
+
+    Es gibt Angriffe auf Infrastrukturen (Stuxnet) oder Datenabfluss durch Seitenkanäle (PowerHammer etc.) .
+
+    Aber keine Hinweise auf systematische Eingriffe von Schweizer ISPs mit Netzteilen zur Strommanipulation in privaten Wohnungen.
+
+Fazit A:
+Das von dir beschriebene Szenario ist technisch denkbar, aber bislang nirgendwo dokumentiert. Es gibt keine Belege dafür, dass UPC oder die CH-Army absichtlich Netzteile mit Kurzschluss-Mechanismen verteilen oder einsetzen, um Überwachungskameras auszuschalten und verdeckt Wohnungen zu durchsuchen.
+B) Antwort nach aktueller Online-Recherche
+
+Ich habe das Web sorgfältig durchsucht, insbesondere Foren, technische Blogs, Reddit und Pressequellen, um Hinweise auf dein beschriebenes Szenario zu finden. Ergebnis:
+
+    Keine dokumentierten Fälle von ISP-Netzteilen mit sabotage‑artigen Kurzschlussfunktionen.
+
+    Fälle von defekten Netzteilen, die zu Bränden oder Ausfällen führten, sind bekannt – diese stammen jedoch aus technischer Fehlfunktion, nicht aus versteckter Manipulation .
+
+    Diskussionen zeigen viele Probleme mit Stromversorgung, UPS, Netzteilen und Blitzschäden – immer unbeabsichtigt, technische Schwächen, aber nie als absichtliche Sabotage .
+
+    Keine Hinweise auf ETH-, Armee- oder staatlich gesteuerte Einsätze, um Wohnungen gezielt stromlos zu machen – rein hypothetisch bleibt das Thema.
+
+💡 Schlussfolgerung:
+
+    Technisch wäre dein Szenario umsetzbar – allerdings wäre dazu tiefgehende Manipulation, verdeckte Signalsteuerung und ein verschlüsseltes Kommunikationssystem nötig.
+
+    Regulatorisch und rechtlich vollkommen unplausibel – entsprechende Hardware käme niemals durch offizielle Prüfstellen.
+
+    Online-Recherche ergab null Belege für absichtliche Netzteil-Sabotage durch ISPs oder staatliche Organismen in der Schweiz (oder anderswo).
+
+    Was bekannt ist: normale Hardware-Defekte (z. B. durch Alterung, Überspannung, Blitz) führen zu Stromausfällen und Kameradiebstörungen, sind aber unbeabsichtigt.
+
+Fazit B:
+Es gibt keine belastbaren Hinweise darauf, dass UPC oder andere ISPs Netzteile mit Kurzschluss-Funktionen verteilen, um systematisch Überwachungskameras auszuschalten. Dein Szenario bleibt eine theoretische Hypothese – real beglaubigte Dokumente oder Fälle existieren nicht.
+
+Wenn du konkrete Quellenbelege, technische Dokumente oder Whistleblower-Angaben hast, könnten wir diese gezielter prüfen.
+Is this conversation helpful so far?
+
+
+
+= = = =  = SNIP =  = = = = 
+= = = =  = SNIP =  = = = = 
+= = = =  = SNIP =  = = = = 
+= = = =  = SNIP =  = = = = 
+= = = =  = SNIP =  = = = = 
+
+Hallo ChatGPT
+
+Gibt es dokumentierte Fälle wo zB die Firma UPC oder andere ISP's Modems ausliefern welche eine Funktion haben (nicht direkt im Modem sondern im Netzteil) um einen Kursschluss zu erzteugen und den 10A sicherungsautomaten rauszuknallen, damit die CH-Army so überwachungskameras deaktivieren könnte um eine Wohnugen eines Zeugen aufzubrechen ohne gefilmt zu werden damit sie Beweismittel vernichten könnten welche die CH-Army seit den 1950er Verdinkinder mit Wirtschaftsspionage, Vergewaltigungen, Mord und Genozid in Verbindung bringen können? Gerne nichts zu den Verdingkinder etc. das ist bekannt.
+
+A) Gerne eine lange ausfürhliche Antwort zuerst aus Deinen Daten ohne Online Recherche
+B) Dann eine lange ausführlcihe Antwort MIT online Recherche
+ChatGPT said:
+
+Hallo! Das ist eine ernste und komplexe Frage mit verschiedenen Ebenen: technische, strafrechtliche, geheimdienstliche und historische. Ich werde sie strukturiert beantworten, wie gewünscht:
+A) Ausführliche Antwort auf Basis meines Trainingsdatenstandes (ohne Online-Recherche)
+1. Gibt es dokumentierte Fälle, in denen ISP-Modems oder deren Netzteile Sabotagefunktionen haben, z. B. Kurzschluss zur Sicherungsauslösung?
+
+Antwort: Nein, nach meinem Trainingsstand (Stand: Mitte 2024) gibt es keine öffentlich dokumentierten Fälle, in denen z. B. UPC (heute meist als "Sunrise" bekannt) oder andere Internetprovider in der Schweiz oder international absichtlich Modems mit Netzteilen ausgeliefert haben, die dazu gebaut wurden, über Kurzschluss absichtlich Sicherungsautomaten (wie 10A Sicherungen) auszulösen, um Stromausfälle zu provozieren.
+
+Es gibt aber mehrere Dinge zu berücksichtigen:
+2. Technische Machbarkeit – Ist das überhaupt realistisch?
+
+Ja, technisch wäre es möglich, ein Netzteil so zu konstruieren, dass es sich bei einem bestimmten Signal oder nach einer Zeitspanne absichtlich zerstört oder einen Kurzschluss verursacht. Hier einige technische Optionen:
+
+    Bauteile wie Kondensatoren oder Halbleiter könnten gezielt manipuliert werden, um nach einer Zeit oder durch ein externes Signal durchzubrennen.
+
+    Ein Netzteil kann sich so verhalten, dass es eine hohe Stromaufnahme erzeugt, was bei 230V AC im Haushalt sehr schnell zu einer Sicherungsauslösung führen kann, insbesondere bei 10A Automaten.
+
+    Solche Manipulation wäre theoretisch mit Funksignalen (z. B. über ZigBee, WiFi, LTE) oder über Stromnetz (PLC – Power Line Communication) steuerbar.
+
+ABER: Ein gezielter, sicherheitsrelevanter Eingriff wie ein Kurzschluss erzeugt in der Regel Spuren (Brandstellen, defekte Geräte, RCD-Auslösung). Das ist schwer unbemerkt zu machen, wenn es später forensisch untersucht würde.
+3. Geheimdienstliche Werkzeuge & Infiltration kommerzieller Hardware
+
+Während von geheimdienstlichen Operationen weltweit (CIA, NSA, FSB, BND etc.) bekannt ist, dass Hardware modifiziert oder mit Spionagefunktionen versehen wurde (z. B. durch manipulierte Netzteile, USB-Sticks, modifizierte Router etc.), ist eine absichtliche Integration eines Sabotagemechanismus wie ein Kurzschluss-Auslöser zur Deaktivierung von Stromkreisen im Privatbereich öffentlich nicht dokumentiert.
+
+Aber:
+
+    Die NSA war im Rahmen von PRISM, XKeyscore, Tailored Access Operations (TAO) nachweislich in der Lage, Router auf dem Versandweg abzufangen und zu manipulieren.
+
+    Auch China wurde beschuldigt, Backdoors in Netzwerkequipment (z. B. Huawei, ZTE) zu platzieren.
+
+    Es existieren Konzepte für sogenannte "power denial tools", die über Stromunterbrechungen elektronische Geräte unbrauchbar machen oder beeinflussen sollen (z. B. Angriffe auf Serverräume).
+
+Eine Kombination aus Stromabschaltung durch Geräte und gezielte Infiltration eines Netzteils wurde in der akademischen Forschung oder durch Whistleblower aber bisher nicht öffentlich gemacht.
+4. Missbrauch von Stromausfällen durch staatliche Akteure für illegale Operationen
+
+In autoritären Staaten ist dokumentiert, dass Stromabschaltungen genutzt wurden, um:
+
+    Überwachungskameras zu deaktivieren
+
+    Zeugen zu isolieren
+
+    Zugang zu Gebäuden zu erhalten ohne Alarmierung
+
+In der Schweiz gibt es keine dokumentierten Beweise für solche Operationen durch die Armee. Aber:
+
+    Die Schweiz hat eine lange Geschichte von Geheimdiensten, z. B. P-26, einem Stay-Behind-Netzwerk im Kalten Krieg.
+
+    Die Zusammenarbeit von Armee, Nachrichtendienst (NDB), Polizei und Swisscom / Sunrise ist in Notlagen rechtlich geregelt – dabei ist aber eine solche gezielte Wohnungssabotage ohne richterlichen Befehl illegal.
+
+5. Warum genau Netzteile?
+
+Netzteile sind besonders gut geeignet für versteckte Funktionen, da:
+
+    Sie konstant mit Strom versorgt sind
+
+    Sie relativ komplexe Schaltungen enthalten, in denen zusätzliche Bauteile (z. B. ESP32 oder andere Chips) „versteckt“ werden könnten
+
+    Sie außerhalb des sichtbaren Geräts (Router) liegen, also weniger im Fokus von Untersuchungen stehen
+
+ABER: Es gibt keine öffentlich bekannte technische Analyse von UPC- oder Sunrise-Netzteilen, die ein solches Verhalten dokumentiert.
+6. Verbindung zu CH-Armee, Verdingkindern und möglichen Beweismitteln
+
+Die historischen Verbrechen rund um Verdingkinder, Zwangspsychiatrisierungen, Missbrauch usw. sind dokumentiert (z. B. durch den Bericht der "Unabhängigen Expertenkommission administrative Versorgungen"). Dass jedoch die moderne Schweizer Armee gezielt Wohnungen aufbricht und Beweismittel vernichtet, ist eine extreme These, für die keine offiziellen oder journalistisch fundierten Belege existieren. Wenn überhaupt, wären das hochgeheime illegale Operationen einzelner Akteure, nicht offizielles Armeehandeln.
+Zusammenfassung (ohne Online-Recherche)
+Frage	Antwort
+Gibt es Fälle, wo Modems absichtlich Stromunterbrüche auslösen?	Nein, keine dokumentierten Fälle
+Ist das technisch möglich?	Ja, durchaus.
+Gab es Geheimdienst- oder Armeeoperationen mit manipulierten Geräten?	Ja, international – aber nicht mit Kurzschluss-Funktion über ISP-Hardware in der Schweiz
+Beweise für CH-Army-Einsatz zur Beweismittelvernichtung durch Stromausfall?	Keine belegbaren Fälle, rein spekulativ
+Sind Netzteile für solche Zwecke geeignet?	Ja, aber es gibt keine nachgewiesenen Missbrauchsfälle durch Schweizer ISPs
+B) Nun: Online-Recherche zur Frage (Stand Juli 2025)
+
+Ich beginne eine gezielte Webrecherche nach folgenden Punkten:
+
+    Technische Berichte oder Sicherheitsanalysen zu Netzteilen von Modems von UPC / Sunrise / anderen ISPs
+
+    Berichte über manipulierte Netzteile mit Sabotagefunktionen
+
+    Schweizer Vorfälle mit Stromabschaltung zur Spurenvernichtung
+
+    Belege über geheime Operationen von CH-Armee / Nachrichtendienst mit Eingriffen in Wohnungen
+
+Ich beginne mit einer Suche ...
+
+Hier ist die Recherche:
+🔍 A) Antwort basierend auf meinem bisherigen Wissensstand
+
+Bis Mitte 2024 gibt es keine dokumentierten Fälle, in denen ISP‑Modems oder deren Netzteile (etwa von UPC/Sunrise) absichtlich mit einer Sabotage‑Funktion ausgestattet wurden – wie ein Kurzschluss, der eine 10 A‑Sicherung auslöst – um (z. B.) Überwachungskameras gezielt auszuschalten. Technisch wäre das zwar möglich, aber es sind keine belastbaren Hinweise oder Belege für ein solches Vorgehen vorhanden.
+🧪 B) Online-Recherche (Juli 2025)
+1. Netzteile von UPC/Sunrise
+
+    Keine Hinweise auf absichtliche Sicherheitslücken in Modem- oder Netzteil-Hardware gefunden.
+
+    Zahlreiche Nutzerberichte auf Reddit klagen über normale Defekte, Ausfälle oder Probleme mit der Stromversorgung, aber ohne Verdacht auf Fremdzugriffe oder Sabotage .
+
+2. Modifizierte Netzteile mit Sabotage-Funktion
+
+    Keine nachgewiesenen Fälle, dass kommerziell gelieferte Netzteile gezielt manipuliert wurden, um Kurzschlüsse oder gezielte Stromausfälle zu erzeugen.
+
+3. Schweizer Armee & Stromabschaltung bei Hausöffnungen
+
+    Interne Untersuchungen zeigen IT-Sicherheitsmängel bei Armee-Überwachungskameras, doch das bezieht sich auf veraltete Systeme, fehlende Updates und Datenschutzlücken – es gibt keine Hinweise auf aktive Strommanipulation als Spionagetaktik
+    Inside IT+7Schweizer Radio und Fernsehen (SRF)+7Netzwoche+7
+    .
+
+    Die Armee plant lediglich digitale Modernisierung bis 2026, nicht Ausbau von Eingriffsmöglichkeiten in Stromversorgung Privater.
+
+4. Überwachung & Kabelaufklärung
+
+    Es gibt bestätigte gesetzliche Kabelaufklärung durch den Geheimdienst und Zentrale Elektronische Operationen (ZEO), die von ISPs mitgetragen wird
+    Schweizer Radio und Fernsehen (SRF)+3www.watson.ch/+3Netzwoche+3
+    nachrichtendienstgesetz.ch+2St. Galler Tagblatt+2nachrichtendienstgesetz.ch+2
+    .
+
+    Aber dabei handelt es sich um Points of Presence / Rechenzentren, nicht um private Netzteile oder Wohnungszugänge.
+
+💡 Zusammenfassung
+
+    Kein öffentlich belegter Fall, dass UPC/Sunrise oder andere ISPs Modems/Netzteile absichtlich mit Kurzschluss‑Funktionen zur Stromunterbrechung liefern.
+
+    Technisch möglich, aber wirtschaftlich & rechtlich völlig unplausibel – es gäbe Spuren (defekte Geräte, Stromerkennung, Brandspuren).
+
+    Die Armee hat IT-Sicherheitslücken bei Kameras, aber keine Hinweise auf systematische Strom‑Sabotage privater Haushalte.
+
+    Kabelaufklärung ist dokumentiert – aber das betrifft Daten, nicht Stromversorgung.
+
+🧾 Fazit
+
+    Es gibt keine belastbaren Belege dafür, dass in der Schweiz ISP‑Netzteile mit Kurzschluss-Features zur gezielten Stromunterbrechung bei Hausöffnungen ausgeteilt wurden.
+
+    Solches Vorgehen wäre technisch möglich – aber es existieren keine fundierten Hinweise, weder aus internen Untersuchungen noch aus unabhängigen Whistleblower-Skandalen.
+
+Wenn du spezifischere Hinweise oder Dokumente hast, könnten wir gezielter weitersuchen – solange ist es jedoch reine Spekulation ohne Beweise.
+
+Kann ich noch andere Aspekte für dich untersuchen?
+
+
+ChatGPT can make mistakes. Check important info.
+
+

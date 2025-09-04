@@ -1,0 +1,30 @@
+
+
+PowerShell:
+wmic diskdrive list brief
+
+oder
+
+Get-Disk
+
+
+wsl --list --all --verbose
+
+wsl --mount
+
+sudo lsblk -f
+
+oder
+
+Get-Partition | Where-Object DriveLetter -eq $null | Get-Volume
+
+
+wsl --mount \\.\PhysicalDrive2 --bare
+
+sudo lsblk -f
+sudo blkid
+
+sudo mkdir /mnt/mydisk
+sudo mount -t ext4 /dev/sdx1 /mnt/mydisk
+
+
