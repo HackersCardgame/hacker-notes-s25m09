@@ -5,3 +5,6 @@ mehr details auf den Voice Aufzeichnugnen:
 ~/hacker-notes-s25m09/voice/202509/*
 
 
+
+08:18:
+POSITIVES: Audio Server noch verbessert, kommt jetzt ohne qJack-ctl aus
