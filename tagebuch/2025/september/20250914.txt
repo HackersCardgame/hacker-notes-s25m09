@@ -8,3 +8,10 @@ mehr details auf den Voice Aufzeichnugnen:
 
 08:18:
 POSITIVES: Audio Server noch verbessert, kommt jetzt ohne qJack-ctl aus
+
+
+10:39:
+scans: 
+~/hacker-notes-s25m09/scans/42/BRN3C2AF421298E_068062--4201-4229.pdf
+
+
