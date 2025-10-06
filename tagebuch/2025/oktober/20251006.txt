@@ -1,0 +1,6 @@
+04:09
+
+temporärer save der TXT Files:
+FEDPOL/20251006/*.txt
+
+
