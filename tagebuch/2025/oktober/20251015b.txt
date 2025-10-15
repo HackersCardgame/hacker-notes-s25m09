@@ -1,0 +1,171 @@
+08:30
+
+the law is in favour for an offender that is criminal, scheinbar auch hier in aarau
+
+wenn ein polizist eine Vergewaltigung als "Verhör" tarnt kann er tun und lassen was er will
+
+mutmasslicher grund für das Bestreben den StGB 190 auf "nur ja heisst ja" zu ändern
+
+und wir hätten dann vermutlich einen Rechtsfall gegen SIXGROUP welche die Kreditkarte mit Passwort abfrage blockiert wegen nur 25.-- sFR. und SIXGROUP und die Ladenüberwachung / 3D Modell einer Ladenkette aus Deutschland wäre mit SIXGROUP vernetzt mutmasslich über ein C4ISR system oder das DCGS-A was die ETH mutmasslich selber zusammengebastelt hat
+
+voice:
+~/hacker-notes-s25m09/voice/202510/R20251015*
+
+
+dann wird scheinbar grad auf dem Endpoint allenfalls etwas geändert. bzw muss noch den Timestamp kontrollieren
+
+arc@debian:~$ cp -rvu /media/marc/4443-4FFC/RECORD/R202510* ~/hacker-notes-s25m09/voice/202510/
+'/media/marc/4443-4FFC/RECORD/R20251009-085003.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251009-085003.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251009-085059.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251009-085059.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251009-172709.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251009-172709.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251009-173838.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251009-173838.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251009-232656.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251009-232656.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251009-232811.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251009-232811.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251010-081042.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251010-081042.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251010-081226.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251010-081226.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251010-081259.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251010-081259.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251010-081419.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251010-081419.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-061422.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-061422.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-061813.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-061813.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-061839.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-061839.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-062954.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-062954.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-063017.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-063017.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-063736.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-063736.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-064028.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-064028.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-071424.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-071424.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-071448.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-071448.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-072821.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-072821.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-072847.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-072847.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-081736.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-081736.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-113141.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-113141.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-113451.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-113451.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-113559.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-113559.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-113636.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-113636.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-113716.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-113716.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-115733.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-115733.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-115817.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-115817.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-120912.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-120912.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-121201.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-121201.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-121239.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-121239.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-122147.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-122147.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-122354.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-122354.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-131010.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-131010.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-131648.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-131648.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251014-134412.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251014-134412.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-055351.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-055351.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-064853.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-064853.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072120.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072120.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072148.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072148.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072324.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072324.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072559.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072559.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074457.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074457.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074733.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074733.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074810.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074810.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074912.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074912.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080111.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080111.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080212.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080212.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080755.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080755.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080826.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080826.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080900.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080900.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080922.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080922.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081245.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081245.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081316.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081316.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081801.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081801.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081851.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081851.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-082413.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-082413.WAV'
+(reverse-i-search)`rsync': ^Cync -avz /home/marc/hacker-notes-s25m09/* 192.168.0.127:~/hacker-notes-s25m09/
+marc@debian:~$ cp -rvu /media/marc/4443-4FFC/RECORD/R202510* ~/hacker-notes-s25m09/voice/202510/
+'/media/marc/4443-4FFC/RECORD/R20251015-064853.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-064853.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072120.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072120.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072148.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072148.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072324.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072324.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-072559.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-072559.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074457.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074457.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074733.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074733.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074810.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074810.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-074912.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-074912.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080111.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080111.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080212.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080212.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080755.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080755.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080826.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080826.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080900.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080900.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-080922.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-080922.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081245.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081245.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081316.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081316.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081801.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081801.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-081851.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-081851.WAV'
+'/media/marc/4443-4FFC/RECORD/R20251015-082413.WAV' -> '/home/marc/hacker-notes-s25m09/voice/202510/R20251015-082413.WAV'
+marc@debian:~$ rsync -avz /home/marc/hacker-notes-s25m09/* 192.168.0.127:~/hacker-notes-s25m09/
+marc@192.168.0.127's password: 
+sending incremental file list
+tagebuch/2025/oktober/
+tagebuch/2025/oktober/20251015.txt
+tagebuch/2025/oktober/20251015b.txt
+unsortedBackup/txt/singing-dalek/.git/
+unsortedBackup/txt/singing-dalek/.git/index
+voice/202510/
+voice/202510/R20251009-085003.WAV
+voice/202510/R20251009-085059.WAV
+voice/202510/R20251009-172709.WAV
+voice/202510/R20251009-173838.WAV
+voice/202510/R20251009-232656.WAV
+voice/202510/R20251009-232811.WAV
+voice/202510/R20251010-081042.WAV
+voice/202510/R20251010-081226.WAV
+voice/202510/R20251010-081259.WAV
+voice/202510/R20251010-081419.WAV
+voice/202510/R20251014-061422.WAV
+voice/202510/R20251014-061813.WAV
+voice/202510/R20251014-061839.WAV
+voice/202510/R20251014-062954.WAV
+voice/202510/R20251014-063017.WAV
+voice/202510/R20251014-063736.WAV
+voice/202510/R20251014-064028.WAV
+voice/202510/R20251014-071424.WAV
+voice/202510/R20251014-071448.WAV
+voice/202510/R20251014-072821.WAV
+voice/202510/R20251014-072847.WAV
+voice/202510/R20251014-081736.WAV
+voice/202510/R20251014-113141.WAV
+voice/202510/R20251014-113451.WAV
+voice/202510/R20251014-113559.WAV
+voice/202510/R20251014-113636.WAV
+voice/202510/R20251014-113716.WAV
+voice/202510/R20251014-115733.WAV
+voice/202510/R20251014-115817.WAV
+voice/202510/R20251014-120912.WAV
+voice/202510/R20251014-121201.WAV
+voice/202510/R20251014-121239.WAV
+voice/202510/R20251014-122147.WAV
+voice/202510/R20251014-122354.WAV
+voice/202510/R20251014-131010.WAV
+voice/202510/R20251014-131648.WAV
+voice/202510/R20251014-134412.WAV
+voice/202510/R20251015-055351.WAV
+voice/202510/R20251015-064853.WAV
+voice/202510/R20251015-072120.WAV
+voice/202510/R20251015-072148.WAV
+voice/202510/R20251015-072324.WAV
+voice/202510/R20251015-072559.WAV
+voice/202510/R20251015-074457.WAV
+voice/202510/R20251015-074733.WAV
+voice/202510/R20251015-074810.WAV
+voice/202510/R20251015-074912.WAV
+voice/202510/R20251015-080111.WAV
+voice/202510/R20251015-080212.WAV
+voice/202510/R20251015-080755.WAV
+voice/202510/R20251015-080826.WAV
+voice/202510/R20251015-080900.WAV
+voice/202510/R20251015-080922.WAV
+voice/202510/R20251015-081245.WAV
+voice/202510/R20251015-081316.WAV
+voice/202510/R20251015-081801.WAV
+voice/202510/R20251015-081851.WAV
+voice/202510/R20251015-082413.WAV
+
+sent 54,357,071 bytes  received 1,947 bytes  8,362,925.85 bytes/sec
+total size is 3,285,580,688  speedup is 60.44
+
+
+
+
