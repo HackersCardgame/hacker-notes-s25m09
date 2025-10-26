@@ -94,7 +94,7 @@ marc@debian:~$
 ***********
 **       ** 
 **       ** 
-** ~/hacker-notes-s25m09/FEDPOL/ALLEGED.die.HTL.veruebt.seit.1970.illegalen.Waffenhandel/sobald.ich.die.wohnug.verlasse.faengt.urs.bum.an.straffaellige.amtspersonen.zu.verraten.txt
+**   ~/hacker-notes-s25m09/FEDPOL/ALLEGED.die.HTL.veruebt.seit.1970.illegalen.Waffenhandel/sobald.ich.die.wohnug.verlasse.faengt.urs.bum.an.straffaellige.amtspersonen.zu.verraten.txt
 **       ** 
 **       ** 
 ***********
@@ -133,5 +133,8 @@ marc@debian:~$ figlet INTERPOL
 |___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
                                                
 marc@debian:~$ 
+
+14:49
+entweder bin ich hochmütig oder es wäre einfach die Hoffung dass der Terrorismus gegen mich allenfalls bald ein ende haben könnte
 
 
