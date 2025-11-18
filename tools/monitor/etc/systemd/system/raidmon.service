@@ -1,0 +1,16 @@
+[Unit]
+Description=RAID Monitor on tty7
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/local/bin/raidmon.sh
+StandardInput=tty
+StandardOutput=tty
+StandardError=tty
+TTYPath=/dev/tty7
+TTYReset=yes
+TTYHangup=yes
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
