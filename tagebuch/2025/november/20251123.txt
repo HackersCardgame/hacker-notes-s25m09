@@ -1,0 +1,13 @@
+01:10
+
+voice:
+~/hacker-notes-s25m09/voice/202511/R202511*
+
+
+
+scans:
+scans/44/BRN3C2AF421298E_069848--4451-4500.pdf
+scans/45/BRN3C2AF421298E_069950--4501-4505.pdf (nummerierung falsch, bereits korrigiert)
+
+
+

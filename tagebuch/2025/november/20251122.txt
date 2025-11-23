@@ -1,0 +1,12 @@
+14:43:
+
+MEIMNUNG
+dann das FEDPOL soll allenfalls mal schauen wo zB die Schiessanlage Buchs (bzw automatische auswertungsanlage) überall dran angeschlossen ist, das wäre allenfalls auch ein Multifactor-Authenticator mit prärequisite [1] schiessen zu können und ein machtmittel / gefahrenquelle zu besitzen.
+
+die CH-Army verwendet allenfalls auch eher linux als windows, also da wäre dann etwas wie ein
+
+lib_pam_schiessanlage . so
+
+
+
+[1] unbekannt: verrate na jüngschützen päter hächler, verrat an jungschützen jürg stalder
